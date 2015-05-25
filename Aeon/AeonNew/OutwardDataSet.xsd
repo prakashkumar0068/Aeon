@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="OutwardDataSet" targetNamespace="http://tempuri.org/OutwardDataSet.xsd" xmlns:mstns="http://tempuri.org/OutwardDataSet.xsd" xmlns="http://tempuri.org/OutwardDataSet.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="OutwardDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="OutwardDataSet" msprop:Generator_UserDSName="OutwardDataSet">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="OUTWARD_TABLE" msprop:Generator_TableClassName="OUTWARD_TABLEDataTable" msprop:Generator_TableVarName="tableOUTWARD_TABLE" msprop:Generator_TablePropName="OUTWARD_TABLE" msprop:Generator_RowDeletingName="OUTWARD_TABLERowDeleting" msprop:Generator_RowChangingName="OUTWARD_TABLERowChanging" msprop:Generator_RowEvHandlerName="OUTWARD_TABLERowChangeEventHandler" msprop:Generator_RowDeletedName="OUTWARD_TABLERowDeleted" msprop:Generator_UserTableName="OUTWARD_TABLE" msprop:Generator_RowChangedName="OUTWARD_TABLERowChanged" msprop:Generator_RowEvArgName="OUTWARD_TABLERowChangeEvent" msprop:Generator_RowClassName="OUTWARD_TABLERow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="PRODUCT_NAME" msprop:Generator_ColumnVarNameInTable="columnPRODUCT_NAME" msprop:Generator_ColumnPropNameInRow="PRODUCT_NAME" msprop:Generator_ColumnPropNameInTable="PRODUCT_NAMEColumn" msprop:Generator_UserColumnName="PRODUCT_NAME" type="xs:string" minOccurs="0" />
+              <xs:element name="SERIAL_NUMBER" msprop:Generator_ColumnVarNameInTable="columnSERIAL_NUMBER" msprop:Generator_ColumnPropNameInRow="SERIAL_NUMBER" msprop:Generator_ColumnPropNameInTable="SERIAL_NUMBERColumn" msprop:Generator_UserColumnName="SERIAL_NUMBER" type="xs:string" minOccurs="0" />
+              <xs:element name="BRAND" msprop:Generator_ColumnVarNameInTable="columnBRAND" msprop:Generator_ColumnPropNameInRow="BRAND" msprop:Generator_ColumnPropNameInTable="BRANDColumn" msprop:Generator_UserColumnName="BRAND" type="xs:string" minOccurs="0" />
+              <xs:element name="MODAL" msprop:Generator_ColumnVarNameInTable="columnMODAL" msprop:Generator_ColumnPropNameInRow="MODAL" msprop:Generator_ColumnPropNameInTable="MODALColumn" msprop:Generator_UserColumnName="MODAL" type="xs:string" minOccurs="0" />
+              <xs:element name="OUTWARD_DATE" msprop:Generator_ColumnVarNameInTable="columnOUTWARD_DATE" msprop:Generator_ColumnPropNameInRow="OUTWARD_DATE" msprop:Generator_ColumnPropNameInTable="OUTWARD_DATEColumn" msprop:Generator_UserColumnName="OUTWARD_DATE" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

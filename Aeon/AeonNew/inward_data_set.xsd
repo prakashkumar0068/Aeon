@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="inward_data_set" targetNamespace="http://tempuri.org/inward_data_set.xsd" xmlns:mstns="http://tempuri.org/inward_data_set.xsd" xmlns="http://tempuri.org/inward_data_set.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="inward_data_set" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="inward_data_set" msprop:Generator_UserDSName="inward_data_set">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="INWARD_TABLE" msprop:Generator_TableClassName="INWARD_TABLEDataTable" msprop:Generator_TableVarName="tableINWARD_TABLE" msprop:Generator_RowChangedName="INWARD_TABLERowChanged" msprop:Generator_TablePropName="INWARD_TABLE" msprop:Generator_RowDeletingName="INWARD_TABLERowDeleting" msprop:Generator_RowChangingName="INWARD_TABLERowChanging" msprop:Generator_RowEvHandlerName="INWARD_TABLERowChangeEventHandler" msprop:Generator_RowDeletedName="INWARD_TABLERowDeleted" msprop:Generator_RowClassName="INWARD_TABLERow" msprop:Generator_UserTableName="INWARD_TABLE" msprop:Generator_RowEvArgName="INWARD_TABLERowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="PRODUCT_NAME" msprop:Generator_ColumnVarNameInTable="columnPRODUCT_NAME" msprop:Generator_ColumnPropNameInRow="PRODUCT_NAME" msprop:Generator_ColumnPropNameInTable="PRODUCT_NAMEColumn" msprop:Generator_UserColumnName="PRODUCT_NAME" type="xs:string" minOccurs="0" />
+              <xs:element name="SERIAL_NUMBER" msprop:Generator_ColumnVarNameInTable="columnSERIAL_NUMBER" msprop:Generator_ColumnPropNameInRow="SERIAL_NUMBER" msprop:Generator_ColumnPropNameInTable="SERIAL_NUMBERColumn" msprop:Generator_UserColumnName="SERIAL_NUMBER" type="xs:string" minOccurs="0" />
+              <xs:element name="BRAND" msprop:Generator_ColumnVarNameInTable="columnBRAND" msprop:Generator_ColumnPropNameInRow="BRAND" msprop:Generator_ColumnPropNameInTable="BRANDColumn" msprop:Generator_UserColumnName="BRAND" type="xs:string" minOccurs="0" />
+              <xs:element name="MODAL_NUMBER" msprop:Generator_ColumnVarNameInTable="columnMODAL_NUMBER" msprop:Generator_ColumnPropNameInRow="MODAL_NUMBER" msprop:Generator_ColumnPropNameInTable="MODAL_NUMBERColumn" msprop:Generator_UserColumnName="MODAL_NUMBER" type="xs:string" minOccurs="0" />
+              <xs:element name="INWARD_DATE" msprop:Generator_ColumnVarNameInTable="columnINWARD_DATE" msprop:Generator_ColumnPropNameInRow="INWARD_DATE" msprop:Generator_ColumnPropNameInTable="INWARD_DATEColumn" msprop:Generator_UserColumnName="INWARD_DATE" type="xs:long" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

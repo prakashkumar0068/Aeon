@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="RecieptDataSet" targetNamespace="http://tempuri.org/RecieptDataSet.xsd" xmlns:mstns="http://tempuri.org/RecieptDataSet.xsd" xmlns="http://tempuri.org/RecieptDataSet.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="RecieptDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="RecieptDataSet" msprop:Generator_UserDSName="RecieptDataSet">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="RecieptDataTable" msprop:Generator_TableClassName="RecieptDataTableDataTable" msprop:Generator_TableVarName="tableRecieptDataTable" msprop:Generator_RowChangedName="RecieptDataTableRowChanged" msprop:Generator_TablePropName="RecieptDataTable" msprop:Generator_RowDeletingName="RecieptDataTableRowDeleting" msprop:Generator_RowChangingName="RecieptDataTableRowChanging" msprop:Generator_RowEvHandlerName="RecieptDataTableRowChangeEventHandler" msprop:Generator_RowDeletedName="RecieptDataTableRowDeleted" msprop:Generator_RowClassName="RecieptDataTableRow" msprop:Generator_UserTableName="RecieptDataTable" msprop:Generator_RowEvArgName="RecieptDataTableRowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="BILL_NO" msprop:Generator_ColumnVarNameInTable="columnBILL_NO" msprop:Generator_ColumnPropNameInRow="BILL_NO" msprop:Generator_ColumnPropNameInTable="BILL_NOColumn" msprop:Generator_UserColumnName="BILL_NO" type="xs:int" minOccurs="0" />
+              <xs:element name="DECIDED_INSTALLMENT" msprop:Generator_ColumnVarNameInTable="columnDECIDED_INSTALLMENT" msprop:Generator_ColumnPropNameInRow="DECIDED_INSTALLMENT" msprop:Generator_ColumnPropNameInTable="DECIDED_INSTALLMENTColumn" msprop:Generator_UserColumnName="DECIDED_INSTALLMENT" type="xs:string" minOccurs="0" />
+              <xs:element name="AMT_REC_IN" msprop:Generator_ColumnVarNameInTable="columnAMT_REC_IN" msprop:Generator_ColumnPropNameInRow="AMT_REC_IN" msprop:Generator_ColumnPropNameInTable="AMT_REC_INColumn" msprop:Generator_UserColumnName="AMT_REC_IN" type="xs:string" minOccurs="0" />
+              <xs:element name="AMT_RECEIVED" msprop:Generator_ColumnVarNameInTable="columnAMT_RECEIVED" msprop:Generator_ColumnPropNameInRow="AMT_RECEIVED" msprop:Generator_ColumnPropNameInTable="AMT_RECEIVEDColumn" msprop:Generator_UserColumnName="AMT_RECEIVED" type="xs:string" minOccurs="0" />
+              <xs:element name="NUM_INST_COVERED" msprop:Generator_ColumnVarNameInTable="columnNUM_INST_COVERED" msprop:Generator_ColumnPropNameInRow="NUM_INST_COVERED" msprop:Generator_ColumnPropNameInTable="NUM_INST_COVEREDColumn" msprop:Generator_UserColumnName="NUM_INST_COVERED" type="xs:string" minOccurs="0" />
+              <xs:element name="SERIAL_NUMBER" msprop:Generator_ColumnVarNameInTable="columnSERIAL_NUMBER" msprop:Generator_ColumnPropNameInRow="SERIAL_NUMBER" msprop:Generator_ColumnPropNameInTable="SERIAL_NUMBERColumn" msprop:Generator_UserColumnName="SERIAL_NUMBER" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

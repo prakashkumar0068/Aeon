@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="EngineerWiseNotResolveDataSet" targetNamespace="http://tempuri.org/EngineerWiseNotResolveDataSet.xsd" xmlns:mstns="http://tempuri.org/EngineerWiseNotResolveDataSet.xsd" xmlns="http://tempuri.org/EngineerWiseNotResolveDataSet.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="EngineerWiseNotResolveDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="EngineerWiseNotResolveDataSet" msprop:Generator_UserDSName="EngineerWiseNotResolveDataSet">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="EngineerWiseNotResolve_datatable" msprop:Generator_TableClassName="EngineerWiseNotResolve_datatableDataTable" msprop:Generator_TableVarName="tableEngineerWiseNotResolve_datatable" msprop:Generator_TablePropName="EngineerWiseNotResolve_datatable" msprop:Generator_RowDeletingName="EngineerWiseNotResolve_datatableRowDeleting" msprop:Generator_RowChangingName="EngineerWiseNotResolve_datatableRowChanging" msprop:Generator_RowEvHandlerName="EngineerWiseNotResolve_datatableRowChangeEventHandler" msprop:Generator_RowDeletedName="EngineerWiseNotResolve_datatableRowDeleted" msprop:Generator_UserTableName="EngineerWiseNotResolve_datatable" msprop:Generator_RowChangedName="EngineerWiseNotResolve_datatableRowChanged" msprop:Generator_RowEvArgName="EngineerWiseNotResolve_datatableRowChangeEvent" msprop:Generator_RowClassName="EngineerWiseNotResolve_datatableRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="ORG_NAME" msprop:Generator_ColumnVarNameInTable="columnORG_NAME" msprop:Generator_ColumnPropNameInRow="ORG_NAME" msprop:Generator_ColumnPropNameInTable="ORG_NAMEColumn" msprop:Generator_UserColumnName="ORG_NAME" type="xs:string" minOccurs="0" />
+              <xs:element name="COMPLAINT_ID" msprop:Generator_ColumnVarNameInTable="columnCOMPLAINT_ID" msprop:Generator_ColumnPropNameInRow="COMPLAINT_ID" msprop:Generator_ColumnPropNameInTable="COMPLAINT_IDColumn" msprop:Generator_UserColumnName="COMPLAINT_ID" type="xs:string" minOccurs="0" />
+              <xs:element name="EQUIP_NAME" msprop:Generator_ColumnVarNameInTable="columnEQUIP_NAME" msprop:Generator_ColumnPropNameInRow="EQUIP_NAME" msprop:Generator_ColumnPropNameInTable="EQUIP_NAMEColumn" msprop:Generator_UserColumnName="EQUIP_NAME" type="xs:string" minOccurs="0" />
+              <xs:element name="EQUIP_BRAND" msprop:Generator_ColumnVarNameInTable="columnEQUIP_BRAND" msprop:Generator_ColumnPropNameInRow="EQUIP_BRAND" msprop:Generator_ColumnPropNameInTable="EQUIP_BRANDColumn" msprop:Generator_UserColumnName="EQUIP_BRAND" type="xs:string" minOccurs="0" />
+              <xs:element name="DATE_OF_COMPLAINT" msprop:Generator_ColumnVarNameInTable="columnDATE_OF_COMPLAINT" msprop:Generator_ColumnPropNameInRow="DATE_OF_COMPLAINT" msprop:Generator_ColumnPropNameInTable="DATE_OF_COMPLAINTColumn" msprop:Generator_UserColumnName="DATE_OF_COMPLAINT" type="xs:string" minOccurs="0" />
+              <xs:element name="NATURE_OF_COMPLAINT" msprop:Generator_ColumnVarNameInTable="columnNATURE_OF_COMPLAINT" msprop:Generator_ColumnPropNameInRow="NATURE_OF_COMPLAINT" msprop:Generator_ColumnPropNameInTable="NATURE_OF_COMPLAINTColumn" msprop:Generator_UserColumnName="NATURE_OF_COMPLAINT" type="xs:string" minOccurs="0" />
+              <xs:element name="STATUS" msprop:Generator_ColumnVarNameInTable="columnSTATUS" msprop:Generator_ColumnPropNameInRow="STATUS" msprop:Generator_ColumnPropNameInTable="STATUSColumn" msprop:Generator_UserColumnName="STATUS" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

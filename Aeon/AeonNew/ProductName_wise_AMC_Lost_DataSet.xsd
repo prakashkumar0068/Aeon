@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="ProductName_wise_AMC_Lost_DataSet" targetNamespace="http://tempuri.org/ProductName_wise_AMC_Lost_DataSet.xsd" xmlns:mstns="http://tempuri.org/ProductName_wise_AMC_Lost_DataSet.xsd" xmlns="http://tempuri.org/ProductName_wise_AMC_Lost_DataSet.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="ProductName_wise_AMC_Lost_DataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="ProductName_wise_AMC_Lost_DataSet" msprop:Generator_UserDSName="ProductName_wise_AMC_Lost_DataSet">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="CLIENT_DETAILS" msprop:Generator_TableClassName="CLIENT_DETAILSDataTable" msprop:Generator_TableVarName="tableCLIENT_DETAILS" msprop:Generator_TablePropName="CLIENT_DETAILS" msprop:Generator_RowDeletingName="CLIENT_DETAILSRowDeleting" msprop:Generator_RowChangingName="CLIENT_DETAILSRowChanging" msprop:Generator_RowEvHandlerName="CLIENT_DETAILSRowChangeEventHandler" msprop:Generator_RowDeletedName="CLIENT_DETAILSRowDeleted" msprop:Generator_UserTableName="CLIENT_DETAILS" msprop:Generator_RowChangedName="CLIENT_DETAILSRowChanged" msprop:Generator_RowEvArgName="CLIENT_DETAILSRowChangeEvent" msprop:Generator_RowClassName="CLIENT_DETAILSRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="ORG_NAME" msprop:Generator_ColumnVarNameInTable="columnORG_NAME" msprop:Generator_ColumnPropNameInRow="ORG_NAME" msprop:Generator_ColumnPropNameInTable="ORG_NAMEColumn" msprop:Generator_UserColumnName="ORG_NAME" type="xs:string" minOccurs="0" />
+              <xs:element name="EQUIPMENT_NAME" msprop:Generator_ColumnVarNameInTable="columnEQUIPMENT_NAME" msprop:Generator_ColumnPropNameInRow="EQUIPMENT_NAME" msprop:Generator_ColumnPropNameInTable="EQUIPMENT_NAMEColumn" msprop:Generator_UserColumnName="EQUIPMENT_NAME" type="xs:string" minOccurs="0" />
+              <xs:element name="TYPE" msprop:Generator_ColumnVarNameInTable="columnTYPE" msprop:Generator_ColumnPropNameInRow="TYPE" msprop:Generator_ColumnPropNameInTable="TYPEColumn" msprop:Generator_UserColumnName="TYPE" type="xs:string" minOccurs="0" />
+              <xs:element name="BRAND" msprop:Generator_ColumnVarNameInTable="columnBRAND" msprop:Generator_ColumnPropNameInRow="BRAND" msprop:Generator_ColumnPropNameInTable="BRANDColumn" msprop:Generator_UserColumnName="BRAND" type="xs:string" minOccurs="0" />
+              <xs:element name="CITY" msprop:Generator_ColumnVarNameInTable="columnCITY" msprop:Generator_ColumnPropNameInRow="CITY" msprop:Generator_ColumnPropNameInTable="CITYColumn" msprop:Generator_UserColumnName="CITY" type="xs:string" minOccurs="0" />
+              <xs:element name="AMC_UNIT_PRICE" msprop:Generator_ColumnVarNameInTable="columnAMC_UNIT_PRICE" msprop:Generator_ColumnPropNameInRow="AMC_UNIT_PRICE" msprop:Generator_ColumnPropNameInTable="AMC_UNIT_PRICEColumn" msprop:Generator_UserColumnName="AMC_UNIT_PRICE" type="xs:string" minOccurs="0" />
+              <xs:element name="AMC_END_DATE" msprop:Generator_ColumnVarNameInTable="columnAMC_END_DATE" msprop:Generator_ColumnPropNameInRow="AMC_END_DATE" msprop:Generator_ColumnPropNameInTable="AMC_END_DATEColumn" msprop:Generator_UserColumnName="AMC_END_DATE" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

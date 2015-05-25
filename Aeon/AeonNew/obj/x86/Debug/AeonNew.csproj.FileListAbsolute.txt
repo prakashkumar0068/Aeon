@@ -1,0 +1,786 @@
+D:\VS project\AeonNew\AeonNew\obj\x86\Debug\Interop.AcroPDFLib.dll
+D:\VS project\AeonNew\AeonNew\obj\x86\Debug\AeonNew.csproj.ResolveComReference.cache
+D:\VS project\AeonNew\AeonNew\obj\x86\Debug\AeonNew.AddNewMachine.resources
+D:\VS project\AeonNew\AeonNew\obj\x86\Debug\AeonNew.AddSerial.resources
+D:\VS project\AeonNew\AeonNew\obj\x86\Debug\AeonNew.ADD_Product.resources
+D:\VS project\AeonNew\AeonNew\obj\x86\Debug\AeonNew.AdjustmentPayment.resources
+D:\VS project\AeonNew\AeonNew\obj\x86\Debug\AeonNew.AeonEquipmentDetails.resources
+D:\VS project\AeonNew\AeonNew\obj\x86\Debug\AeonNew.AlterInstallmentPatern.resources
+D:\VS project\AeonNew\AeonNew\obj\x86\Debug\AeonNew.CellClick.resources
+D:\VS project\AeonNew\AeonNew\obj\x86\Debug\AeonNew.Citywise_Amc_Lost_Report.resources
+D:\VS project\AeonNew\AeonNew\obj\x86\Debug\AeonNew.Complaintdetails_Report.resources
+D:\VS project\AeonNew\AeonNew\obj\x86\Debug\AeonNew.ComplaintPaymentDetails.resources
+D:\VS project\AeonNew\AeonNew\obj\x86\Debug\AeonNew.ComplaintReportDateWiseSolve.resources
+D:\VS project\AeonNew\AeonNew\obj\x86\Debug\AeonNew.ComplaintResolve.resources
+D:\VS project\AeonNew\AeonNew\obj\x86\Debug\AeonNew.DateWiseNotSolve.resources
+D:\VS project\AeonNew\AeonNew\obj\x86\Debug\AeonNew.DSRRepotAll.resources
+D:\VS project\AeonNew\AeonNew\obj\x86\Debug\AeonNew.DSR_DayVisit.resources
+D:\VS project\AeonNew\AeonNew\obj\x86\Debug\AeonNew.DSR_MakeEntry.resources
+D:\VS project\AeonNew\AeonNew\obj\x86\Debug\AeonNew.Emaitemplate.resources
+D:\VS project\AeonNew\AeonNew\obj\x86\Debug\AeonNew.EngineerWiseNotResolve.resources
+D:\VS project\AeonNew\AeonNew\obj\x86\Debug\AeonNew.EngineerWiseNotResolveReport.resources
+D:\VS project\AeonNew\AeonNew\obj\x86\Debug\AeonNew.EngineerWiseSolveReport.resources
+D:\VS project\AeonNew\AeonNew\obj\x86\Debug\AeonNew.EquipmentDetails.resources
+D:\VS project\AeonNew\AeonNew\obj\x86\Debug\AeonNew.Equpiment_Archive.resources
+D:\VS project\AeonNew\AeonNew\obj\x86\Debug\AeonNew.Form2.resources
+D:\VS project\AeonNew\AeonNew\obj\x86\Debug\AeonNew.Form3.resources
+D:\VS project\AeonNew\AeonNew\obj\x86\Debug\AeonNew.GenerateDateReport.resources
+D:\VS project\AeonNew\AeonNew\obj\x86\Debug\AeonNew.GenerateEngineerReport.resources
+D:\VS project\AeonNew\AeonNew\obj\x86\Debug\AeonNew.GeneratePurchaseOrderReport.resources
+D:\VS project\AeonNew\AeonNew\obj\x86\Debug\AeonNew.Installement.resources
+D:\VS project\AeonNew\AeonNew\obj\x86\Debug\AeonNew.Installment_Entry.resources
+D:\VS project\AeonNew\AeonNew\obj\x86\Debug\AeonNew.Inward.resources
+D:\VS project\AeonNew\AeonNew\obj\x86\Debug\AeonNew.InwardReport.resources
+D:\VS project\AeonNew\AeonNew\obj\x86\Debug\AeonNew.LogComplaint.resources
+D:\VS project\AeonNew\AeonNew\obj\x86\Debug\AeonNew.Lost_Amc.resources
+D:\VS project\AeonNew\AeonNew\obj\x86\Debug\AeonNew.MainWindow.resources
+D:\VS project\AeonNew\AeonNew\obj\x86\Debug\AeonNew.NewClientEntry.resources
+D:\VS project\AeonNew\AeonNew\obj\x86\Debug\AeonNew.NewComplainLog.resources
+D:\VS project\AeonNew\AeonNew\obj\x86\Debug\AeonNew.NewContactDetails.resources
+D:\VS project\AeonNew\AeonNew\obj\x86\Debug\AeonNew.NotResolve.resources
+D:\VS project\AeonNew\AeonNew\obj\x86\Debug\AeonNew.NotResolveReport.resources
+D:\VS project\AeonNew\AeonNew\obj\x86\Debug\AeonNew.OutwardReport.resources
+D:\VS project\AeonNew\AeonNew\obj\x86\Debug\AeonNew.OutWard_Product.resources
+D:\VS project\AeonNew\AeonNew\obj\x86\Debug\AeonNew.PaidComplain.resources
+D:\VS project\AeonNew\AeonNew\obj\x86\Debug\AeonNew.PaymentDescription.resources
+D:\VS project\AeonNew\AeonNew\obj\x86\Debug\AeonNew.PaymentDetails.resources
+D:\VS project\AeonNew\AeonNew\obj\x86\Debug\AeonNew.PaymentEntryBill.resources
+D:\VS project\AeonNew\AeonNew\obj\x86\Debug\AeonNew.pin_wise_amc_lost_report.resources
+D:\VS project\AeonNew\AeonNew\obj\x86\Debug\AeonNew.ProductName_Wise_AMC_LostReport.resources
+D:\VS project\AeonNew\AeonNew\obj\x86\Debug\AeonNew.Proposal.resources
+D:\VS project\AeonNew\AeonNew\obj\x86\Debug\AeonNew.ProposalGridViewer.resources
+D:\VS project\AeonNew\AeonNew\obj\x86\Debug\AeonNew.ProposalReportViewer.resources
+D:\VS project\AeonNew\AeonNew\obj\x86\Debug\AeonNew.PurchaseOrder.resources
+D:\VS project\AeonNew\AeonNew\obj\x86\Debug\AeonNew.Purchase_order_details.resources
+D:\VS project\AeonNew\AeonNew\obj\x86\Debug\AeonNew.Quantity.resources
+D:\VS project\AeonNew\AeonNew\obj\x86\Debug\AeonNew.Bill_Details.resources
+D:\VS project\AeonNew\AeonNew\obj\x86\Debug\AeonNew.ChangeEngineer.resources
+D:\VS project\AeonNew\AeonNew\obj\x86\Debug\AeonNew.ChangePasswordForm1.resources
+D:\VS project\AeonNew\AeonNew\obj\x86\Debug\AeonNew.ChangePasswordForm2.resources
+D:\VS project\AeonNew\AeonNew\obj\x86\Debug\AeonNew.ChangePasswordForm3.resources
+D:\VS project\AeonNew\AeonNew\obj\x86\Debug\AeonNew.ClientDetails.resources
+D:\VS project\AeonNew\AeonNew\obj\x86\Debug\AeonNew.ClientEntry.resources
+D:\VS project\AeonNew\AeonNew\obj\x86\Debug\AeonNew.CloseComplaint.resources
+D:\VS project\AeonNew\AeonNew\obj\x86\Debug\AeonNew.AMC_Expiry_Report.resources
+D:\VS project\AeonNew\AeonNew\obj\x86\Debug\AeonNew.CreateUser.resources
+D:\VS project\AeonNew\AeonNew\obj\x86\Debug\AeonNew.DSR_Brief.resources
+D:\VS project\AeonNew\AeonNew\obj\x86\Debug\AeonNew.Form1.resources
+D:\VS project\AeonNew\AeonNew\obj\x86\Debug\AeonNew.CarryForward_Report.resources
+D:\VS project\AeonNew\AeonNew\obj\x86\Debug\AeonNew.old_LogComplaint.resources
+D:\VS project\AeonNew\AeonNew\obj\x86\Debug\AeonNew.LoginForm.resources
+D:\VS project\AeonNew\AeonNew\obj\x86\Debug\AeonNew.Month_Report.resources
+D:\VS project\AeonNew\AeonNew\obj\x86\Debug\AeonNew.PaymentForm.resources
+D:\VS project\AeonNew\AeonNew\obj\x86\Debug\AeonNew.Properties.Resources.resources
+D:\VS project\AeonNew\AeonNew\obj\x86\Debug\AeonNew.Report_DSR.resources
+D:\VS project\AeonNew\AeonNew\obj\x86\Debug\AeonNew.Resolve.resources
+D:\VS project\AeonNew\AeonNew\obj\x86\Debug\AeonNew.ResolveReport.resources
+D:\VS project\AeonNew\AeonNew\obj\x86\Debug\AeonNew.select_month.resources
+D:\VS project\AeonNew\AeonNew\obj\x86\Debug\AeonNew.UpdateBasic.resources
+D:\VS project\AeonNew\AeonNew\obj\x86\Debug\AeonNew.UpdateClientDetails.resources
+D:\VS project\AeonNew\AeonNew\obj\x86\Debug\AeonNew.updatecontact.resources
+D:\VS project\AeonNew\AeonNew\obj\x86\Debug\AeonNew.UpdateDSR.resources
+D:\VS project\AeonNew\AeonNew\obj\x86\Debug\AeonNew.updateEqpDialog.resources
+D:\VS project\AeonNew\AeonNew\obj\x86\Debug\AeonNew.csproj.GenerateResource.Cache
+D:\VS project\AeonNew\AeonNew\bin\Debug\AeonNew.exe.config
+D:\VS project\AeonNew\AeonNew\bin\Debug\AeonNew.exe
+D:\VS project\AeonNew\AeonNew\bin\Debug\AeonNew.pdb
+D:\VS project\AeonNew\AeonNew\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\VS project\AeonNew\AeonNew\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\VS project\AeonNew\AeonNew\bin\Debug\CrystalDecisions.Shared.dll
+D:\VS project\AeonNew\AeonNew\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\VS project\AeonNew\AeonNew\bin\Debug\FlashControlV71.dll
+D:\VS project\AeonNew\AeonNew\bin\Debug\Microsoft.CSharp.dll
+D:\VS project\AeonNew\AeonNew\bin\Debug\System.Xml.dll
+D:\VS project\AeonNew\AeonNew\bin\Debug\WindowsBase.dll
+D:\VS project\AeonNew\AeonNew\obj\x86\Debug\AeonNew.exe
+D:\VS project\AeonNew\AeonNew\obj\x86\Debug\AeonNew.pdb
+D:\VS project\AeonNew\AeonNew\obj\x86\Debug\AeonNew.csprojResolveAssemblyReference.cache
+F:\AeonNew\bin\Debug\AeonNew.exe.config
+F:\AeonNew\obj\x86\Debug\Interop.AcroPDFLib.dll
+F:\AeonNew\obj\x86\Debug\AeonNew.csproj.ResolveComReference.cache
+F:\AeonNew\obj\x86\Debug\AeonNew.exe
+F:\AeonNew\obj\x86\Debug\AeonNew.pdb
+F:\AeonNew\bin\Debug\AeonNew.exe
+F:\AeonNew\bin\Debug\AeonNew.pdb
+F:\AeonNew\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+F:\AeonNew\bin\Debug\CrystalDecisions.ReportSource.dll
+F:\AeonNew\bin\Debug\CrystalDecisions.Shared.dll
+F:\AeonNew\bin\Debug\CrystalDecisions.Windows.Forms.dll
+F:\AeonNew\bin\Debug\FlashControlV71.dll
+F:\AeonNew\bin\Debug\Microsoft.CSharp.dll
+F:\AeonNew\bin\Debug\System.Xml.dll
+F:\AeonNew\bin\Debug\WindowsBase.dll
+F:\AeonNew\obj\x86\Debug\AeonNew.csprojResolveAssemblyReference.cache
+F:\AeonNew\obj\x86\Debug\AeonNew.AddNewMachine.resources
+F:\AeonNew\obj\x86\Debug\AeonNew.AddSerial.resources
+F:\AeonNew\obj\x86\Debug\AeonNew.ADD_Product.resources
+F:\AeonNew\obj\x86\Debug\AeonNew.AdjustmentPayment.resources
+F:\AeonNew\obj\x86\Debug\AeonNew.AeonEquipmentDetails.resources
+F:\AeonNew\obj\x86\Debug\AeonNew.AlterInstallmentPatern.resources
+F:\AeonNew\obj\x86\Debug\AeonNew.CellClick.resources
+F:\AeonNew\obj\x86\Debug\AeonNew.Citywise_Amc_Lost_Report.resources
+F:\AeonNew\obj\x86\Debug\AeonNew.Complaintdetails_Report.resources
+F:\AeonNew\obj\x86\Debug\AeonNew.ComplaintPaymentDetails.resources
+F:\AeonNew\obj\x86\Debug\AeonNew.ComplaintReportDateWiseSolve.resources
+F:\AeonNew\obj\x86\Debug\AeonNew.ComplaintResolve.resources
+F:\AeonNew\obj\x86\Debug\AeonNew.DateWiseNotSolve.resources
+F:\AeonNew\obj\x86\Debug\AeonNew.DSRRepotAll.resources
+F:\AeonNew\obj\x86\Debug\AeonNew.DSR_DayVisit.resources
+F:\AeonNew\obj\x86\Debug\AeonNew.DSR_MakeEntry.resources
+F:\AeonNew\obj\x86\Debug\AeonNew.Emaitemplate.resources
+F:\AeonNew\obj\x86\Debug\AeonNew.EngineerWiseNotResolve.resources
+F:\AeonNew\obj\x86\Debug\AeonNew.EngineerWiseNotResolveReport.resources
+F:\AeonNew\obj\x86\Debug\AeonNew.EngineerWiseSolveReport.resources
+F:\AeonNew\obj\x86\Debug\AeonNew.EquipmentDetails.resources
+F:\AeonNew\obj\x86\Debug\AeonNew.Equpiment_Archive.resources
+F:\AeonNew\obj\x86\Debug\AeonNew.Form2.resources
+F:\AeonNew\obj\x86\Debug\AeonNew.Form3.resources
+F:\AeonNew\obj\x86\Debug\AeonNew.GenerateDateReport.resources
+F:\AeonNew\obj\x86\Debug\AeonNew.GenerateEngineerReport.resources
+F:\AeonNew\obj\x86\Debug\AeonNew.GeneratePurchaseOrderReport.resources
+F:\AeonNew\obj\x86\Debug\AeonNew.Installement.resources
+F:\AeonNew\obj\x86\Debug\AeonNew.Installment_Entry.resources
+F:\AeonNew\obj\x86\Debug\AeonNew.Inward.resources
+F:\AeonNew\obj\x86\Debug\AeonNew.InwardReport.resources
+F:\AeonNew\obj\x86\Debug\AeonNew.LogComplaint.resources
+F:\AeonNew\obj\x86\Debug\AeonNew.Lost_Amc.resources
+F:\AeonNew\obj\x86\Debug\AeonNew.MainWindow.resources
+F:\AeonNew\obj\x86\Debug\AeonNew.NewClientEntry.resources
+F:\AeonNew\obj\x86\Debug\AeonNew.NewComplainLog.resources
+F:\AeonNew\obj\x86\Debug\AeonNew.NewContactDetails.resources
+F:\AeonNew\obj\x86\Debug\AeonNew.NotResolve.resources
+F:\AeonNew\obj\x86\Debug\AeonNew.NotResolveReport.resources
+F:\AeonNew\obj\x86\Debug\AeonNew.OutwardReport.resources
+F:\AeonNew\obj\x86\Debug\AeonNew.OutWard_Product.resources
+F:\AeonNew\obj\x86\Debug\AeonNew.PaidComplain.resources
+F:\AeonNew\obj\x86\Debug\AeonNew.PaymentDescription.resources
+F:\AeonNew\obj\x86\Debug\AeonNew.PaymentDetails.resources
+F:\AeonNew\obj\x86\Debug\AeonNew.PaymentEntryBill.resources
+F:\AeonNew\obj\x86\Debug\AeonNew.pin_wise_amc_lost_report.resources
+F:\AeonNew\obj\x86\Debug\AeonNew.ProductName_Wise_AMC_LostReport.resources
+F:\AeonNew\obj\x86\Debug\AeonNew.Proposal.resources
+F:\AeonNew\obj\x86\Debug\AeonNew.ProposalGridViewer.resources
+F:\AeonNew\obj\x86\Debug\AeonNew.ProposalReportViewer.resources
+F:\AeonNew\obj\x86\Debug\AeonNew.PurchaseOrder.resources
+F:\AeonNew\obj\x86\Debug\AeonNew.Purchase_order_details.resources
+F:\AeonNew\obj\x86\Debug\AeonNew.Quantity.resources
+F:\AeonNew\obj\x86\Debug\AeonNew.Bill_Details.resources
+F:\AeonNew\obj\x86\Debug\AeonNew.ChangeEngineer.resources
+F:\AeonNew\obj\x86\Debug\AeonNew.ChangePasswordForm1.resources
+F:\AeonNew\obj\x86\Debug\AeonNew.ChangePasswordForm2.resources
+F:\AeonNew\obj\x86\Debug\AeonNew.ChangePasswordForm3.resources
+F:\AeonNew\obj\x86\Debug\AeonNew.ClientDetails.resources
+F:\AeonNew\obj\x86\Debug\AeonNew.ClientEntry.resources
+F:\AeonNew\obj\x86\Debug\AeonNew.CloseComplaint.resources
+F:\AeonNew\obj\x86\Debug\AeonNew.AMC_Expiry_Report.resources
+F:\AeonNew\obj\x86\Debug\AeonNew.CreateUser.resources
+F:\AeonNew\obj\x86\Debug\AeonNew.DSR_Brief.resources
+F:\AeonNew\obj\x86\Debug\AeonNew.Form1.resources
+F:\AeonNew\obj\x86\Debug\AeonNew.CarryForward_Report.resources
+F:\AeonNew\obj\x86\Debug\AeonNew.old_LogComplaint.resources
+F:\AeonNew\obj\x86\Debug\AeonNew.LoginForm.resources
+F:\AeonNew\obj\x86\Debug\AeonNew.Month_Report.resources
+F:\AeonNew\obj\x86\Debug\AeonNew.PaymentForm.resources
+F:\AeonNew\obj\x86\Debug\AeonNew.Properties.Resources.resources
+F:\AeonNew\obj\x86\Debug\AeonNew.Report_DSR.resources
+F:\AeonNew\obj\x86\Debug\AeonNew.Resolve.resources
+F:\AeonNew\obj\x86\Debug\AeonNew.ResolveReport.resources
+F:\AeonNew\obj\x86\Debug\AeonNew.select_month.resources
+F:\AeonNew\obj\x86\Debug\AeonNew.UpdateBasic.resources
+F:\AeonNew\obj\x86\Debug\AeonNew.UpdateClientDetails.resources
+F:\AeonNew\obj\x86\Debug\AeonNew.updatecontact.resources
+F:\AeonNew\obj\x86\Debug\AeonNew.UpdateDSR.resources
+F:\AeonNew\obj\x86\Debug\AeonNew.updateEqpDialog.resources
+F:\AeonNew\obj\x86\Debug\AeonNew.update_complain_by_id.resources
+F:\AeonNew\obj\x86\Debug\AeonNew.csproj.GenerateResource.Cache
+C:\Users\pushpendra.tiwari\Desktop\New folder (3)\AeonNew\bin\Debug\AeonNew.exe.config
+C:\Users\pushpendra.tiwari\Desktop\New folder (3)\AeonNew\obj\x86\Debug\Interop.AcroPDFLib.dll
+C:\Users\pushpendra.tiwari\Desktop\New folder (3)\AeonNew\obj\x86\Debug\AeonNew.csproj.ResolveComReference.cache
+C:\Users\pushpendra.tiwari\Desktop\New folder (3)\AeonNew\obj\x86\Debug\AeonNew.exe
+C:\Users\pushpendra.tiwari\Desktop\New folder (3)\AeonNew\obj\x86\Debug\AeonNew.pdb
+C:\Users\pushpendra.tiwari\Desktop\new aeon\AeonNew\bin\Debug\AeonNew.exe.config
+C:\Users\pushpendra.tiwari\Desktop\new aeon\AeonNew\bin\Debug\AeonNew.exe
+C:\Users\pushpendra.tiwari\Desktop\new aeon\AeonNew\bin\Debug\AeonNew.pdb
+C:\Users\pushpendra.tiwari\Desktop\new aeon\AeonNew\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\pushpendra.tiwari\Desktop\new aeon\AeonNew\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\pushpendra.tiwari\Desktop\new aeon\AeonNew\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\pushpendra.tiwari\Desktop\new aeon\AeonNew\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\pushpendra.tiwari\Desktop\new aeon\AeonNew\bin\Debug\FlashControlV71.dll
+C:\Users\pushpendra.tiwari\Desktop\new aeon\AeonNew\bin\Debug\Microsoft.CSharp.dll
+C:\Users\pushpendra.tiwari\Desktop\new aeon\AeonNew\bin\Debug\System.Xml.dll
+C:\Users\pushpendra.tiwari\Desktop\new aeon\AeonNew\bin\Debug\WindowsBase.dll
+C:\Users\pushpendra.tiwari\Desktop\new aeon\AeonNew\obj\x86\Debug\Interop.AcroPDFLib.dll
+C:\Users\pushpendra.tiwari\Desktop\new aeon\AeonNew\obj\x86\Debug\AeonNew.csproj.ResolveComReference.cache
+C:\Users\pushpendra.tiwari\Desktop\new aeon\AeonNew\obj\x86\Debug\AeonNew.AddNewMachine.resources
+C:\Users\pushpendra.tiwari\Desktop\new aeon\AeonNew\obj\x86\Debug\AeonNew.AddSerial.resources
+C:\Users\pushpendra.tiwari\Desktop\new aeon\AeonNew\obj\x86\Debug\AeonNew.ADD_Product.resources
+C:\Users\pushpendra.tiwari\Desktop\new aeon\AeonNew\obj\x86\Debug\AeonNew.AdjustmentPayment.resources
+C:\Users\pushpendra.tiwari\Desktop\new aeon\AeonNew\obj\x86\Debug\AeonNew.AeonEquipmentDetails.resources
+C:\Users\pushpendra.tiwari\Desktop\new aeon\AeonNew\obj\x86\Debug\AeonNew.AlterInstallmentPatern.resources
+C:\Users\pushpendra.tiwari\Desktop\new aeon\AeonNew\obj\x86\Debug\AeonNew.CellClick.resources
+C:\Users\pushpendra.tiwari\Desktop\new aeon\AeonNew\obj\x86\Debug\AeonNew.Citywise_Amc_Lost_Report.resources
+C:\Users\pushpendra.tiwari\Desktop\new aeon\AeonNew\obj\x86\Debug\AeonNew.Complaintdetails_Report.resources
+C:\Users\pushpendra.tiwari\Desktop\new aeon\AeonNew\obj\x86\Debug\AeonNew.ComplaintPaymentDetails.resources
+C:\Users\pushpendra.tiwari\Desktop\new aeon\AeonNew\obj\x86\Debug\AeonNew.ComplaintReportDateWiseSolve.resources
+C:\Users\pushpendra.tiwari\Desktop\new aeon\AeonNew\obj\x86\Debug\AeonNew.ComplaintResolve.resources
+C:\Users\pushpendra.tiwari\Desktop\new aeon\AeonNew\obj\x86\Debug\AeonNew.DateWiseNotSolve.resources
+C:\Users\pushpendra.tiwari\Desktop\new aeon\AeonNew\obj\x86\Debug\AeonNew.DSRRepotAll.resources
+C:\Users\pushpendra.tiwari\Desktop\new aeon\AeonNew\obj\x86\Debug\AeonNew.DSR_DayVisit.resources
+C:\Users\pushpendra.tiwari\Desktop\new aeon\AeonNew\obj\x86\Debug\AeonNew.DSR_MakeEntry.resources
+C:\Users\pushpendra.tiwari\Desktop\new aeon\AeonNew\obj\x86\Debug\AeonNew.Emaitemplate.resources
+C:\Users\pushpendra.tiwari\Desktop\new aeon\AeonNew\obj\x86\Debug\AeonNew.EngineerWiseNotResolve.resources
+C:\Users\pushpendra.tiwari\Desktop\new aeon\AeonNew\obj\x86\Debug\AeonNew.EngineerWiseNotResolveReport.resources
+C:\Users\pushpendra.tiwari\Desktop\new aeon\AeonNew\obj\x86\Debug\AeonNew.EngineerWiseSolveReport.resources
+C:\Users\pushpendra.tiwari\Desktop\new aeon\AeonNew\obj\x86\Debug\AeonNew.EquipmentDetails.resources
+C:\Users\pushpendra.tiwari\Desktop\new aeon\AeonNew\obj\x86\Debug\AeonNew.Equpiment_Archive.resources
+C:\Users\pushpendra.tiwari\Desktop\new aeon\AeonNew\obj\x86\Debug\AeonNew.Form2.resources
+C:\Users\pushpendra.tiwari\Desktop\new aeon\AeonNew\obj\x86\Debug\AeonNew.Form3.resources
+C:\Users\pushpendra.tiwari\Desktop\new aeon\AeonNew\obj\x86\Debug\AeonNew.GenerateDateReport.resources
+C:\Users\pushpendra.tiwari\Desktop\new aeon\AeonNew\obj\x86\Debug\AeonNew.GenerateEngineerReport.resources
+C:\Users\pushpendra.tiwari\Desktop\new aeon\AeonNew\obj\x86\Debug\AeonNew.GeneratePurchaseOrderReport.resources
+C:\Users\pushpendra.tiwari\Desktop\new aeon\AeonNew\obj\x86\Debug\AeonNew.Installement.resources
+C:\Users\pushpendra.tiwari\Desktop\new aeon\AeonNew\obj\x86\Debug\AeonNew.Installment_Entry.resources
+C:\Users\pushpendra.tiwari\Desktop\new aeon\AeonNew\obj\x86\Debug\AeonNew.Inward.resources
+C:\Users\pushpendra.tiwari\Desktop\new aeon\AeonNew\obj\x86\Debug\AeonNew.InwardReport.resources
+C:\Users\pushpendra.tiwari\Desktop\new aeon\AeonNew\obj\x86\Debug\AeonNew.LogComplaint.resources
+C:\Users\pushpendra.tiwari\Desktop\new aeon\AeonNew\obj\x86\Debug\AeonNew.Lost_Amc.resources
+C:\Users\pushpendra.tiwari\Desktop\new aeon\AeonNew\obj\x86\Debug\AeonNew.MainWindow.resources
+C:\Users\pushpendra.tiwari\Desktop\new aeon\AeonNew\obj\x86\Debug\AeonNew.NewClientEntry.resources
+C:\Users\pushpendra.tiwari\Desktop\new aeon\AeonNew\obj\x86\Debug\AeonNew.NewComplainLog.resources
+C:\Users\pushpendra.tiwari\Desktop\new aeon\AeonNew\obj\x86\Debug\AeonNew.NewContactDetails.resources
+C:\Users\pushpendra.tiwari\Desktop\new aeon\AeonNew\obj\x86\Debug\AeonNew.NotResolve.resources
+C:\Users\pushpendra.tiwari\Desktop\new aeon\AeonNew\obj\x86\Debug\AeonNew.NotResolveReport.resources
+C:\Users\pushpendra.tiwari\Desktop\new aeon\AeonNew\obj\x86\Debug\AeonNew.OutwardReport.resources
+C:\Users\pushpendra.tiwari\Desktop\new aeon\AeonNew\obj\x86\Debug\AeonNew.OutWard_Product.resources
+C:\Users\pushpendra.tiwari\Desktop\new aeon\AeonNew\obj\x86\Debug\AeonNew.PaidComplain.resources
+C:\Users\pushpendra.tiwari\Desktop\new aeon\AeonNew\obj\x86\Debug\AeonNew.PaymentDescription.resources
+C:\Users\pushpendra.tiwari\Desktop\new aeon\AeonNew\obj\x86\Debug\AeonNew.PaymentDetails.resources
+C:\Users\pushpendra.tiwari\Desktop\new aeon\AeonNew\obj\x86\Debug\AeonNew.PaymentEntryBill.resources
+C:\Users\pushpendra.tiwari\Desktop\new aeon\AeonNew\obj\x86\Debug\AeonNew.pin_wise_amc_lost_report.resources
+C:\Users\pushpendra.tiwari\Desktop\new aeon\AeonNew\obj\x86\Debug\AeonNew.ProductName_Wise_AMC_LostReport.resources
+C:\Users\pushpendra.tiwari\Desktop\new aeon\AeonNew\obj\x86\Debug\AeonNew.Proposal.resources
+C:\Users\pushpendra.tiwari\Desktop\new aeon\AeonNew\obj\x86\Debug\AeonNew.ProposalGridViewer.resources
+C:\Users\pushpendra.tiwari\Desktop\new aeon\AeonNew\obj\x86\Debug\AeonNew.ProposalReportViewer.resources
+C:\Users\pushpendra.tiwari\Desktop\new aeon\AeonNew\obj\x86\Debug\AeonNew.PurchaseOrder.resources
+C:\Users\pushpendra.tiwari\Desktop\new aeon\AeonNew\obj\x86\Debug\AeonNew.Purchase_order_details.resources
+C:\Users\pushpendra.tiwari\Desktop\new aeon\AeonNew\obj\x86\Debug\AeonNew.Quantity.resources
+C:\Users\pushpendra.tiwari\Desktop\new aeon\AeonNew\obj\x86\Debug\AeonNew.Bill_Details.resources
+C:\Users\pushpendra.tiwari\Desktop\new aeon\AeonNew\obj\x86\Debug\AeonNew.ChangeEngineer.resources
+C:\Users\pushpendra.tiwari\Desktop\new aeon\AeonNew\obj\x86\Debug\AeonNew.ChangePasswordForm1.resources
+C:\Users\pushpendra.tiwari\Desktop\new aeon\AeonNew\obj\x86\Debug\AeonNew.ChangePasswordForm2.resources
+C:\Users\pushpendra.tiwari\Desktop\new aeon\AeonNew\obj\x86\Debug\AeonNew.ChangePasswordForm3.resources
+C:\Users\pushpendra.tiwari\Desktop\new aeon\AeonNew\obj\x86\Debug\AeonNew.ClientDetails.resources
+C:\Users\pushpendra.tiwari\Desktop\new aeon\AeonNew\obj\x86\Debug\AeonNew.ClientEntry.resources
+C:\Users\pushpendra.tiwari\Desktop\new aeon\AeonNew\obj\x86\Debug\AeonNew.CloseComplaint.resources
+C:\Users\pushpendra.tiwari\Desktop\new aeon\AeonNew\obj\x86\Debug\AeonNew.AMC_Expiry_Report.resources
+C:\Users\pushpendra.tiwari\Desktop\new aeon\AeonNew\obj\x86\Debug\AeonNew.CreateUser.resources
+C:\Users\pushpendra.tiwari\Desktop\new aeon\AeonNew\obj\x86\Debug\AeonNew.DSR_Brief.resources
+C:\Users\pushpendra.tiwari\Desktop\new aeon\AeonNew\obj\x86\Debug\AeonNew.Form1.resources
+C:\Users\pushpendra.tiwari\Desktop\new aeon\AeonNew\obj\x86\Debug\AeonNew.CarryForward_Report.resources
+C:\Users\pushpendra.tiwari\Desktop\new aeon\AeonNew\obj\x86\Debug\AeonNew.old_LogComplaint.resources
+C:\Users\pushpendra.tiwari\Desktop\new aeon\AeonNew\obj\x86\Debug\AeonNew.LoginForm.resources
+C:\Users\pushpendra.tiwari\Desktop\new aeon\AeonNew\obj\x86\Debug\AeonNew.Month_Report.resources
+C:\Users\pushpendra.tiwari\Desktop\new aeon\AeonNew\obj\x86\Debug\AeonNew.PaymentForm.resources
+C:\Users\pushpendra.tiwari\Desktop\new aeon\AeonNew\obj\x86\Debug\AeonNew.Properties.Resources.resources
+C:\Users\pushpendra.tiwari\Desktop\new aeon\AeonNew\obj\x86\Debug\AeonNew.Report_DSR.resources
+C:\Users\pushpendra.tiwari\Desktop\new aeon\AeonNew\obj\x86\Debug\AeonNew.Resolve.resources
+C:\Users\pushpendra.tiwari\Desktop\new aeon\AeonNew\obj\x86\Debug\AeonNew.ResolveReport.resources
+C:\Users\pushpendra.tiwari\Desktop\new aeon\AeonNew\obj\x86\Debug\AeonNew.select_month.resources
+C:\Users\pushpendra.tiwari\Desktop\new aeon\AeonNew\obj\x86\Debug\AeonNew.UpdateBasic.resources
+C:\Users\pushpendra.tiwari\Desktop\new aeon\AeonNew\obj\x86\Debug\AeonNew.UpdateClientDetails.resources
+C:\Users\pushpendra.tiwari\Desktop\new aeon\AeonNew\obj\x86\Debug\AeonNew.updatecontact.resources
+C:\Users\pushpendra.tiwari\Desktop\new aeon\AeonNew\obj\x86\Debug\AeonNew.UpdateDSR.resources
+C:\Users\pushpendra.tiwari\Desktop\new aeon\AeonNew\obj\x86\Debug\AeonNew.updateEqpDialog.resources
+C:\Users\pushpendra.tiwari\Desktop\new aeon\AeonNew\obj\x86\Debug\AeonNew.update_complain_by_id.resources
+C:\Users\pushpendra.tiwari\Desktop\new aeon\AeonNew\obj\x86\Debug\AeonNew.csproj.GenerateResource.Cache
+C:\Users\pushpendra.tiwari\Desktop\new aeon\AeonNew\obj\x86\Debug\AeonNew.exe
+C:\Users\pushpendra.tiwari\Desktop\new aeon\AeonNew\obj\x86\Debug\AeonNew.pdb
+F:\new aeon\AeonNew\bin\Debug\AeonNew.exe.config
+F:\new aeon\AeonNew\obj\x86\Debug\Interop.AcroPDFLib.dll
+F:\new aeon\AeonNew\obj\x86\Debug\AeonNew.csproj.ResolveComReference.cache
+F:\new aeon\AeonNew\obj\x86\Debug\AeonNew.exe
+F:\new aeon\AeonNew\obj\x86\Debug\AeonNew.pdb
+F:\new aeon\AeonNew\bin\Debug\AeonNew.exe
+F:\new aeon\AeonNew\bin\Debug\AeonNew.pdb
+F:\new aeon\AeonNew\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+F:\new aeon\AeonNew\bin\Debug\CrystalDecisions.ReportSource.dll
+F:\new aeon\AeonNew\bin\Debug\CrystalDecisions.Shared.dll
+F:\new aeon\AeonNew\bin\Debug\CrystalDecisions.Windows.Forms.dll
+F:\new aeon\AeonNew\bin\Debug\FlashControlV71.dll
+F:\new aeon\AeonNew\bin\Debug\Microsoft.CSharp.dll
+F:\new aeon\AeonNew\bin\Debug\System.Xml.dll
+F:\new aeon\AeonNew\bin\Debug\WindowsBase.dll
+F:\new aeon\AeonNew\obj\x86\Debug\AeonNew.AddNewMachine.resources
+F:\new aeon\AeonNew\obj\x86\Debug\AeonNew.AddSerial.resources
+F:\new aeon\AeonNew\obj\x86\Debug\AeonNew.ADD_Product.resources
+F:\new aeon\AeonNew\obj\x86\Debug\AeonNew.AdjustmentPayment.resources
+F:\new aeon\AeonNew\obj\x86\Debug\AeonNew.AeonEquipmentDetails.resources
+F:\new aeon\AeonNew\obj\x86\Debug\AeonNew.AlterInstallmentPatern.resources
+F:\new aeon\AeonNew\obj\x86\Debug\AeonNew.CellClick.resources
+F:\new aeon\AeonNew\obj\x86\Debug\AeonNew.Citywise_Amc_Lost_Report.resources
+F:\new aeon\AeonNew\obj\x86\Debug\AeonNew.Complaintdetails_Report.resources
+F:\new aeon\AeonNew\obj\x86\Debug\AeonNew.ComplaintPaymentDetails.resources
+F:\new aeon\AeonNew\obj\x86\Debug\AeonNew.ComplaintReportDateWiseSolve.resources
+F:\new aeon\AeonNew\obj\x86\Debug\AeonNew.ComplaintResolve.resources
+F:\new aeon\AeonNew\obj\x86\Debug\AeonNew.DateWiseNotSolve.resources
+F:\new aeon\AeonNew\obj\x86\Debug\AeonNew.DSRRepotAll.resources
+F:\new aeon\AeonNew\obj\x86\Debug\AeonNew.DSR_DayVisit.resources
+F:\new aeon\AeonNew\obj\x86\Debug\AeonNew.DSR_MakeEntry.resources
+F:\new aeon\AeonNew\obj\x86\Debug\AeonNew.Emaitemplate.resources
+F:\new aeon\AeonNew\obj\x86\Debug\AeonNew.EngineerWiseNotResolve.resources
+F:\new aeon\AeonNew\obj\x86\Debug\AeonNew.EngineerWiseNotResolveReport.resources
+F:\new aeon\AeonNew\obj\x86\Debug\AeonNew.EngineerWiseSolveReport.resources
+F:\new aeon\AeonNew\obj\x86\Debug\AeonNew.EquipmentDetails.resources
+F:\new aeon\AeonNew\obj\x86\Debug\AeonNew.Equpiment_Archive.resources
+F:\new aeon\AeonNew\obj\x86\Debug\AeonNew.Form2.resources
+F:\new aeon\AeonNew\obj\x86\Debug\AeonNew.Form3.resources
+F:\new aeon\AeonNew\obj\x86\Debug\AeonNew.GenerateDateReport.resources
+F:\new aeon\AeonNew\obj\x86\Debug\AeonNew.GenerateEngineerReport.resources
+F:\new aeon\AeonNew\obj\x86\Debug\AeonNew.GeneratePurchaseOrderReport.resources
+F:\new aeon\AeonNew\obj\x86\Debug\AeonNew.Installement.resources
+F:\new aeon\AeonNew\obj\x86\Debug\AeonNew.Installment_Entry.resources
+F:\new aeon\AeonNew\obj\x86\Debug\AeonNew.Inward.resources
+F:\new aeon\AeonNew\obj\x86\Debug\AeonNew.InwardReport.resources
+F:\new aeon\AeonNew\obj\x86\Debug\AeonNew.LogComplaint.resources
+F:\new aeon\AeonNew\obj\x86\Debug\AeonNew.Lost_Amc.resources
+F:\new aeon\AeonNew\obj\x86\Debug\AeonNew.MainWindow.resources
+F:\new aeon\AeonNew\obj\x86\Debug\AeonNew.NewClientEntry.resources
+F:\new aeon\AeonNew\obj\x86\Debug\AeonNew.NewComplainLog.resources
+F:\new aeon\AeonNew\obj\x86\Debug\AeonNew.NewContactDetails.resources
+F:\new aeon\AeonNew\obj\x86\Debug\AeonNew.NotResolve.resources
+F:\new aeon\AeonNew\obj\x86\Debug\AeonNew.NotResolveReport.resources
+F:\new aeon\AeonNew\obj\x86\Debug\AeonNew.OutwardReport.resources
+F:\new aeon\AeonNew\obj\x86\Debug\AeonNew.OutWard_Product.resources
+F:\new aeon\AeonNew\obj\x86\Debug\AeonNew.PaidComplain.resources
+F:\new aeon\AeonNew\obj\x86\Debug\AeonNew.PaymentDescription.resources
+F:\new aeon\AeonNew\obj\x86\Debug\AeonNew.PaymentDetails.resources
+F:\new aeon\AeonNew\obj\x86\Debug\AeonNew.PaymentEntryBill.resources
+F:\new aeon\AeonNew\obj\x86\Debug\AeonNew.pin_wise_amc_lost_report.resources
+F:\new aeon\AeonNew\obj\x86\Debug\AeonNew.ProductName_Wise_AMC_LostReport.resources
+F:\new aeon\AeonNew\obj\x86\Debug\AeonNew.Proposal.resources
+F:\new aeon\AeonNew\obj\x86\Debug\AeonNew.ProposalGridViewer.resources
+F:\new aeon\AeonNew\obj\x86\Debug\AeonNew.ProposalReportViewer.resources
+F:\new aeon\AeonNew\obj\x86\Debug\AeonNew.PurchaseOrder.resources
+F:\new aeon\AeonNew\obj\x86\Debug\AeonNew.Purchase_order_details.resources
+F:\new aeon\AeonNew\obj\x86\Debug\AeonNew.Quantity.resources
+F:\new aeon\AeonNew\obj\x86\Debug\AeonNew.Bill_Details.resources
+F:\new aeon\AeonNew\obj\x86\Debug\AeonNew.ChangeEngineer.resources
+F:\new aeon\AeonNew\obj\x86\Debug\AeonNew.ChangePasswordForm1.resources
+F:\new aeon\AeonNew\obj\x86\Debug\AeonNew.ChangePasswordForm2.resources
+F:\new aeon\AeonNew\obj\x86\Debug\AeonNew.ChangePasswordForm3.resources
+F:\new aeon\AeonNew\obj\x86\Debug\AeonNew.ClientDetails.resources
+F:\new aeon\AeonNew\obj\x86\Debug\AeonNew.ClientEntry.resources
+F:\new aeon\AeonNew\obj\x86\Debug\AeonNew.CloseComplaint.resources
+F:\new aeon\AeonNew\obj\x86\Debug\AeonNew.AMC_Expiry_Report.resources
+F:\new aeon\AeonNew\obj\x86\Debug\AeonNew.CreateUser.resources
+F:\new aeon\AeonNew\obj\x86\Debug\AeonNew.DSR_Brief.resources
+F:\new aeon\AeonNew\obj\x86\Debug\AeonNew.Form1.resources
+F:\new aeon\AeonNew\obj\x86\Debug\AeonNew.CarryForward_Report.resources
+F:\new aeon\AeonNew\obj\x86\Debug\AeonNew.old_LogComplaint.resources
+F:\new aeon\AeonNew\obj\x86\Debug\AeonNew.LoginForm.resources
+F:\new aeon\AeonNew\obj\x86\Debug\AeonNew.Month_Report.resources
+F:\new aeon\AeonNew\obj\x86\Debug\AeonNew.PaymentForm.resources
+F:\new aeon\AeonNew\obj\x86\Debug\AeonNew.Properties.Resources.resources
+F:\new aeon\AeonNew\obj\x86\Debug\AeonNew.Report_DSR.resources
+F:\new aeon\AeonNew\obj\x86\Debug\AeonNew.Resolve.resources
+F:\new aeon\AeonNew\obj\x86\Debug\AeonNew.ResolveReport.resources
+F:\new aeon\AeonNew\obj\x86\Debug\AeonNew.select_month.resources
+F:\new aeon\AeonNew\obj\x86\Debug\AeonNew.UpdateBasic.resources
+F:\new aeon\AeonNew\obj\x86\Debug\AeonNew.UpdateClientDetails.resources
+F:\new aeon\AeonNew\obj\x86\Debug\AeonNew.updatecontact.resources
+F:\new aeon\AeonNew\obj\x86\Debug\AeonNew.UpdateDSR.resources
+F:\new aeon\AeonNew\obj\x86\Debug\AeonNew.updateEqpDialog.resources
+F:\new aeon\AeonNew\obj\x86\Debug\AeonNew.update_complain_by_id.resources
+F:\new aeon\AeonNew\obj\x86\Debug\AeonNew.csproj.GenerateResource.Cache
+E:\new aeon\AeonNew\bin\Debug\AeonNew.exe.config
+E:\new aeon\AeonNew\obj\x86\Debug\Interop.AcroPDFLib.dll
+E:\new aeon\AeonNew\obj\x86\Debug\AeonNew.csproj.ResolveComReference.cache
+E:\new aeon\AeonNew\obj\x86\Debug\AeonNew.exe
+E:\new aeon\AeonNew\obj\x86\Debug\AeonNew.pdb
+E:\new aeon\AeonNew\bin\Debug\AeonNew.exe
+E:\new aeon\AeonNew\bin\Debug\AeonNew.pdb
+E:\new aeon\AeonNew\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\new aeon\AeonNew\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\new aeon\AeonNew\bin\Debug\CrystalDecisions.Shared.dll
+E:\new aeon\AeonNew\bin\Debug\CrystalDecisions.Windows.Forms.dll
+E:\new aeon\AeonNew\bin\Debug\FlashControlV71.dll
+E:\new aeon\AeonNew\bin\Debug\Microsoft.CSharp.dll
+E:\new aeon\AeonNew\bin\Debug\System.Xml.dll
+E:\new aeon\AeonNew\bin\Debug\WindowsBase.dll
+E:\new aeon\AeonNew\obj\x86\Debug\AeonNew.csprojResolveAssemblyReference.cache
+E:\new aeon\AeonNew\obj\x86\Debug\AeonNew.AddNewMachine.resources
+E:\new aeon\AeonNew\obj\x86\Debug\AeonNew.AddSerial.resources
+E:\new aeon\AeonNew\obj\x86\Debug\AeonNew.ADD_Product.resources
+E:\new aeon\AeonNew\obj\x86\Debug\AeonNew.AdjustmentPayment.resources
+E:\new aeon\AeonNew\obj\x86\Debug\AeonNew.AeonEquipmentDetails.resources
+E:\new aeon\AeonNew\obj\x86\Debug\AeonNew.AlterInstallmentPatern.resources
+E:\new aeon\AeonNew\obj\x86\Debug\AeonNew.CellClick.resources
+E:\new aeon\AeonNew\obj\x86\Debug\AeonNew.Citywise_Amc_Lost_Report.resources
+E:\new aeon\AeonNew\obj\x86\Debug\AeonNew.Complaintdetails_Report.resources
+E:\new aeon\AeonNew\obj\x86\Debug\AeonNew.ComplaintPaymentDetails.resources
+E:\new aeon\AeonNew\obj\x86\Debug\AeonNew.ComplaintReportDateWiseSolve.resources
+E:\new aeon\AeonNew\obj\x86\Debug\AeonNew.ComplaintResolve.resources
+E:\new aeon\AeonNew\obj\x86\Debug\AeonNew.DateWiseNotSolve.resources
+E:\new aeon\AeonNew\obj\x86\Debug\AeonNew.DSRRepotAll.resources
+E:\new aeon\AeonNew\obj\x86\Debug\AeonNew.DSR_DayVisit.resources
+E:\new aeon\AeonNew\obj\x86\Debug\AeonNew.DSR_MakeEntry.resources
+E:\new aeon\AeonNew\obj\x86\Debug\AeonNew.Emaitemplate.resources
+E:\new aeon\AeonNew\obj\x86\Debug\AeonNew.EngineerWiseNotResolve.resources
+E:\new aeon\AeonNew\obj\x86\Debug\AeonNew.EngineerWiseNotResolveReport.resources
+E:\new aeon\AeonNew\obj\x86\Debug\AeonNew.EngineerWiseSolveReport.resources
+E:\new aeon\AeonNew\obj\x86\Debug\AeonNew.EquipmentDetails.resources
+E:\new aeon\AeonNew\obj\x86\Debug\AeonNew.Equpiment_Archive.resources
+E:\new aeon\AeonNew\obj\x86\Debug\AeonNew.Form2.resources
+E:\new aeon\AeonNew\obj\x86\Debug\AeonNew.Form3.resources
+E:\new aeon\AeonNew\obj\x86\Debug\AeonNew.GenerateDateReport.resources
+E:\new aeon\AeonNew\obj\x86\Debug\AeonNew.GenerateEngineerReport.resources
+E:\new aeon\AeonNew\obj\x86\Debug\AeonNew.GeneratePurchaseOrderReport.resources
+E:\new aeon\AeonNew\obj\x86\Debug\AeonNew.Installement.resources
+E:\new aeon\AeonNew\obj\x86\Debug\AeonNew.Installment_Entry.resources
+E:\new aeon\AeonNew\obj\x86\Debug\AeonNew.Inward.resources
+E:\new aeon\AeonNew\obj\x86\Debug\AeonNew.InwardReport.resources
+E:\new aeon\AeonNew\obj\x86\Debug\AeonNew.LogComplaint.resources
+E:\new aeon\AeonNew\obj\x86\Debug\AeonNew.Lost_Amc.resources
+E:\new aeon\AeonNew\obj\x86\Debug\AeonNew.MainWindow.resources
+E:\new aeon\AeonNew\obj\x86\Debug\AeonNew.NewClientEntry.resources
+E:\new aeon\AeonNew\obj\x86\Debug\AeonNew.NewComplainLog.resources
+E:\new aeon\AeonNew\obj\x86\Debug\AeonNew.NewContactDetails.resources
+E:\new aeon\AeonNew\obj\x86\Debug\AeonNew.NotResolve.resources
+E:\new aeon\AeonNew\obj\x86\Debug\AeonNew.NotResolveReport.resources
+E:\new aeon\AeonNew\obj\x86\Debug\AeonNew.OutwardReport.resources
+E:\new aeon\AeonNew\obj\x86\Debug\AeonNew.OutWard_Product.resources
+E:\new aeon\AeonNew\obj\x86\Debug\AeonNew.PaidComplain.resources
+E:\new aeon\AeonNew\obj\x86\Debug\AeonNew.PaymentDescription.resources
+E:\new aeon\AeonNew\obj\x86\Debug\AeonNew.PaymentDetails.resources
+E:\new aeon\AeonNew\obj\x86\Debug\AeonNew.PaymentEntryBill.resources
+E:\new aeon\AeonNew\obj\x86\Debug\AeonNew.pin_wise_amc_lost_report.resources
+E:\new aeon\AeonNew\obj\x86\Debug\AeonNew.ProductName_Wise_AMC_LostReport.resources
+E:\new aeon\AeonNew\obj\x86\Debug\AeonNew.Proposal.resources
+E:\new aeon\AeonNew\obj\x86\Debug\AeonNew.ProposalGridViewer.resources
+E:\new aeon\AeonNew\obj\x86\Debug\AeonNew.ProposalReportViewer.resources
+E:\new aeon\AeonNew\obj\x86\Debug\AeonNew.PurchaseOrder.resources
+E:\new aeon\AeonNew\obj\x86\Debug\AeonNew.Purchase_order_details.resources
+E:\new aeon\AeonNew\obj\x86\Debug\AeonNew.Quantity.resources
+E:\new aeon\AeonNew\obj\x86\Debug\AeonNew.Bill_Details.resources
+E:\new aeon\AeonNew\obj\x86\Debug\AeonNew.ChangeEngineer.resources
+E:\new aeon\AeonNew\obj\x86\Debug\AeonNew.ChangePasswordForm1.resources
+E:\new aeon\AeonNew\obj\x86\Debug\AeonNew.ChangePasswordForm2.resources
+E:\new aeon\AeonNew\obj\x86\Debug\AeonNew.ChangePasswordForm3.resources
+E:\new aeon\AeonNew\obj\x86\Debug\AeonNew.ClientDetails.resources
+E:\new aeon\AeonNew\obj\x86\Debug\AeonNew.ClientEntry.resources
+E:\new aeon\AeonNew\obj\x86\Debug\AeonNew.CloseComplaint.resources
+E:\new aeon\AeonNew\obj\x86\Debug\AeonNew.AMC_Expiry_Report.resources
+E:\new aeon\AeonNew\obj\x86\Debug\AeonNew.CreateUser.resources
+E:\new aeon\AeonNew\obj\x86\Debug\AeonNew.DSR_Brief.resources
+E:\new aeon\AeonNew\obj\x86\Debug\AeonNew.Form1.resources
+E:\new aeon\AeonNew\obj\x86\Debug\AeonNew.CarryForward_Report.resources
+E:\new aeon\AeonNew\obj\x86\Debug\AeonNew.old_LogComplaint.resources
+E:\new aeon\AeonNew\obj\x86\Debug\AeonNew.LoginForm.resources
+E:\new aeon\AeonNew\obj\x86\Debug\AeonNew.Month_Report.resources
+E:\new aeon\AeonNew\obj\x86\Debug\AeonNew.PaymentForm.resources
+E:\new aeon\AeonNew\obj\x86\Debug\AeonNew.Properties.Resources.resources
+E:\new aeon\AeonNew\obj\x86\Debug\AeonNew.Report_DSR.resources
+E:\new aeon\AeonNew\obj\x86\Debug\AeonNew.Resolve.resources
+E:\new aeon\AeonNew\obj\x86\Debug\AeonNew.ResolveReport.resources
+E:\new aeon\AeonNew\obj\x86\Debug\AeonNew.select_month.resources
+E:\new aeon\AeonNew\obj\x86\Debug\AeonNew.UpdateBasic.resources
+E:\new aeon\AeonNew\obj\x86\Debug\AeonNew.UpdateClientDetails.resources
+E:\new aeon\AeonNew\obj\x86\Debug\AeonNew.updatecontact.resources
+E:\new aeon\AeonNew\obj\x86\Debug\AeonNew.UpdateDSR.resources
+E:\new aeon\AeonNew\obj\x86\Debug\AeonNew.updateEqpDialog.resources
+E:\new aeon\AeonNew\obj\x86\Debug\AeonNew.update_complain_by_id.resources
+E:\new aeon\AeonNew\obj\x86\Debug\AeonNew.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\new aeon\AeonNew\bin\Debug\AeonNew.exe.config
+C:\Users\Administrator\Desktop\new aeon\AeonNew\obj\x86\Debug\Interop.AcroPDFLib.dll
+C:\Users\Administrator\Desktop\new aeon\AeonNew\obj\x86\Debug\AeonNew.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\new aeon\AeonNew\obj\x86\Debug\AeonNew.exe
+C:\Users\Administrator\Desktop\new aeon\AeonNew\obj\x86\Debug\AeonNew.pdb
+C:\Users\Administrator\Desktop\new aeon\AeonNew\bin\Debug\AeonNew.exe
+C:\Users\Administrator\Desktop\new aeon\AeonNew\bin\Debug\AeonNew.pdb
+C:\Users\Administrator\Desktop\new aeon\AeonNew\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Administrator\Desktop\new aeon\AeonNew\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Administrator\Desktop\new aeon\AeonNew\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Administrator\Desktop\new aeon\AeonNew\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Administrator\Desktop\new aeon\AeonNew\bin\Debug\FlashControlV71.dll
+C:\Users\Administrator\Desktop\new aeon\AeonNew\bin\Debug\Microsoft.CSharp.dll
+C:\Users\Administrator\Desktop\new aeon\AeonNew\bin\Debug\System.Xml.dll
+C:\Users\Administrator\Desktop\new aeon\AeonNew\bin\Debug\WindowsBase.dll
+C:\Users\Administrator\Desktop\new aeon\AeonNew\obj\x86\Debug\AeonNew.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\new aeon\AeonNew\obj\x86\Debug\AeonNew.AddNewMachine.resources
+C:\Users\Administrator\Desktop\new aeon\AeonNew\obj\x86\Debug\AeonNew.AddSerial.resources
+C:\Users\Administrator\Desktop\new aeon\AeonNew\obj\x86\Debug\AeonNew.ADD_Product.resources
+C:\Users\Administrator\Desktop\new aeon\AeonNew\obj\x86\Debug\AeonNew.AdjustmentPayment.resources
+C:\Users\Administrator\Desktop\new aeon\AeonNew\obj\x86\Debug\AeonNew.AeonEquipmentDetails.resources
+C:\Users\Administrator\Desktop\new aeon\AeonNew\obj\x86\Debug\AeonNew.AlterInstallmentPatern.resources
+C:\Users\Administrator\Desktop\new aeon\AeonNew\obj\x86\Debug\AeonNew.CellClick.resources
+C:\Users\Administrator\Desktop\new aeon\AeonNew\obj\x86\Debug\AeonNew.Citywise_Amc_Lost_Report.resources
+C:\Users\Administrator\Desktop\new aeon\AeonNew\obj\x86\Debug\AeonNew.Complaintdetails_Report.resources
+C:\Users\Administrator\Desktop\new aeon\AeonNew\obj\x86\Debug\AeonNew.ComplaintPaymentDetails.resources
+C:\Users\Administrator\Desktop\new aeon\AeonNew\obj\x86\Debug\AeonNew.ComplaintReportDateWiseSolve.resources
+C:\Users\Administrator\Desktop\new aeon\AeonNew\obj\x86\Debug\AeonNew.ComplaintResolve.resources
+C:\Users\Administrator\Desktop\new aeon\AeonNew\obj\x86\Debug\AeonNew.DateWiseNotSolve.resources
+C:\Users\Administrator\Desktop\new aeon\AeonNew\obj\x86\Debug\AeonNew.DSRRepotAll.resources
+C:\Users\Administrator\Desktop\new aeon\AeonNew\obj\x86\Debug\AeonNew.DSR_DayVisit.resources
+C:\Users\Administrator\Desktop\new aeon\AeonNew\obj\x86\Debug\AeonNew.DSR_MakeEntry.resources
+C:\Users\Administrator\Desktop\new aeon\AeonNew\obj\x86\Debug\AeonNew.Emaitemplate.resources
+C:\Users\Administrator\Desktop\new aeon\AeonNew\obj\x86\Debug\AeonNew.EngineerWiseNotResolve.resources
+C:\Users\Administrator\Desktop\new aeon\AeonNew\obj\x86\Debug\AeonNew.EngineerWiseNotResolveReport.resources
+C:\Users\Administrator\Desktop\new aeon\AeonNew\obj\x86\Debug\AeonNew.EngineerWiseSolveReport.resources
+C:\Users\Administrator\Desktop\new aeon\AeonNew\obj\x86\Debug\AeonNew.EquipmentDetails.resources
+C:\Users\Administrator\Desktop\new aeon\AeonNew\obj\x86\Debug\AeonNew.Equpiment_Archive.resources
+C:\Users\Administrator\Desktop\new aeon\AeonNew\obj\x86\Debug\AeonNew.Form2.resources
+C:\Users\Administrator\Desktop\new aeon\AeonNew\obj\x86\Debug\AeonNew.Form3.resources
+C:\Users\Administrator\Desktop\new aeon\AeonNew\obj\x86\Debug\AeonNew.GenerateDateReport.resources
+C:\Users\Administrator\Desktop\new aeon\AeonNew\obj\x86\Debug\AeonNew.GenerateEngineerReport.resources
+C:\Users\Administrator\Desktop\new aeon\AeonNew\obj\x86\Debug\AeonNew.GeneratePurchaseOrderReport.resources
+C:\Users\Administrator\Desktop\new aeon\AeonNew\obj\x86\Debug\AeonNew.Installement.resources
+C:\Users\Administrator\Desktop\new aeon\AeonNew\obj\x86\Debug\AeonNew.Installment_Entry.resources
+C:\Users\Administrator\Desktop\new aeon\AeonNew\obj\x86\Debug\AeonNew.Inward.resources
+C:\Users\Administrator\Desktop\new aeon\AeonNew\obj\x86\Debug\AeonNew.InwardReport.resources
+C:\Users\Administrator\Desktop\new aeon\AeonNew\obj\x86\Debug\AeonNew.LogComplaint.resources
+C:\Users\Administrator\Desktop\new aeon\AeonNew\obj\x86\Debug\AeonNew.Lost_Amc.resources
+C:\Users\Administrator\Desktop\new aeon\AeonNew\obj\x86\Debug\AeonNew.MainWindow.resources
+C:\Users\Administrator\Desktop\new aeon\AeonNew\obj\x86\Debug\AeonNew.NewClientEntry.resources
+C:\Users\Administrator\Desktop\new aeon\AeonNew\obj\x86\Debug\AeonNew.NewComplainLog.resources
+C:\Users\Administrator\Desktop\new aeon\AeonNew\obj\x86\Debug\AeonNew.NewContactDetails.resources
+C:\Users\Administrator\Desktop\new aeon\AeonNew\obj\x86\Debug\AeonNew.NotResolve.resources
+C:\Users\Administrator\Desktop\new aeon\AeonNew\obj\x86\Debug\AeonNew.NotResolveReport.resources
+C:\Users\Administrator\Desktop\new aeon\AeonNew\obj\x86\Debug\AeonNew.OutwardReport.resources
+C:\Users\Administrator\Desktop\new aeon\AeonNew\obj\x86\Debug\AeonNew.OutWard_Product.resources
+C:\Users\Administrator\Desktop\new aeon\AeonNew\obj\x86\Debug\AeonNew.PaidComplain.resources
+C:\Users\Administrator\Desktop\new aeon\AeonNew\obj\x86\Debug\AeonNew.PaymentDescription.resources
+C:\Users\Administrator\Desktop\new aeon\AeonNew\obj\x86\Debug\AeonNew.PaymentDetails.resources
+C:\Users\Administrator\Desktop\new aeon\AeonNew\obj\x86\Debug\AeonNew.PaymentEntryBill.resources
+C:\Users\Administrator\Desktop\new aeon\AeonNew\obj\x86\Debug\AeonNew.pin_wise_amc_lost_report.resources
+C:\Users\Administrator\Desktop\new aeon\AeonNew\obj\x86\Debug\AeonNew.ProductName_Wise_AMC_LostReport.resources
+C:\Users\Administrator\Desktop\new aeon\AeonNew\obj\x86\Debug\AeonNew.Proposal.resources
+C:\Users\Administrator\Desktop\new aeon\AeonNew\obj\x86\Debug\AeonNew.ProposalGridViewer.resources
+C:\Users\Administrator\Desktop\new aeon\AeonNew\obj\x86\Debug\AeonNew.ProposalReportViewer.resources
+C:\Users\Administrator\Desktop\new aeon\AeonNew\obj\x86\Debug\AeonNew.PurchaseOrder.resources
+C:\Users\Administrator\Desktop\new aeon\AeonNew\obj\x86\Debug\AeonNew.Purchase_order_details.resources
+C:\Users\Administrator\Desktop\new aeon\AeonNew\obj\x86\Debug\AeonNew.Quantity.resources
+C:\Users\Administrator\Desktop\new aeon\AeonNew\obj\x86\Debug\AeonNew.Bill_Details.resources
+C:\Users\Administrator\Desktop\new aeon\AeonNew\obj\x86\Debug\AeonNew.ChangeEngineer.resources
+C:\Users\Administrator\Desktop\new aeon\AeonNew\obj\x86\Debug\AeonNew.ChangePasswordForm1.resources
+C:\Users\Administrator\Desktop\new aeon\AeonNew\obj\x86\Debug\AeonNew.ChangePasswordForm2.resources
+C:\Users\Administrator\Desktop\new aeon\AeonNew\obj\x86\Debug\AeonNew.ChangePasswordForm3.resources
+C:\Users\Administrator\Desktop\new aeon\AeonNew\obj\x86\Debug\AeonNew.ClientDetails.resources
+C:\Users\Administrator\Desktop\new aeon\AeonNew\obj\x86\Debug\AeonNew.ClientEntry.resources
+C:\Users\Administrator\Desktop\new aeon\AeonNew\obj\x86\Debug\AeonNew.CloseComplaint.resources
+C:\Users\Administrator\Desktop\new aeon\AeonNew\obj\x86\Debug\AeonNew.AMC_Expiry_Report.resources
+C:\Users\Administrator\Desktop\new aeon\AeonNew\obj\x86\Debug\AeonNew.CreateUser.resources
+C:\Users\Administrator\Desktop\new aeon\AeonNew\obj\x86\Debug\AeonNew.DSR_Brief.resources
+C:\Users\Administrator\Desktop\new aeon\AeonNew\obj\x86\Debug\AeonNew.Form1.resources
+C:\Users\Administrator\Desktop\new aeon\AeonNew\obj\x86\Debug\AeonNew.CarryForward_Report.resources
+C:\Users\Administrator\Desktop\new aeon\AeonNew\obj\x86\Debug\AeonNew.old_LogComplaint.resources
+C:\Users\Administrator\Desktop\new aeon\AeonNew\obj\x86\Debug\AeonNew.LoginForm.resources
+C:\Users\Administrator\Desktop\new aeon\AeonNew\obj\x86\Debug\AeonNew.Month_Report.resources
+C:\Users\Administrator\Desktop\new aeon\AeonNew\obj\x86\Debug\AeonNew.PaymentForm.resources
+C:\Users\Administrator\Desktop\new aeon\AeonNew\obj\x86\Debug\AeonNew.Properties.Resources.resources
+C:\Users\Administrator\Desktop\new aeon\AeonNew\obj\x86\Debug\AeonNew.Report_DSR.resources
+C:\Users\Administrator\Desktop\new aeon\AeonNew\obj\x86\Debug\AeonNew.Resolve.resources
+C:\Users\Administrator\Desktop\new aeon\AeonNew\obj\x86\Debug\AeonNew.ResolveReport.resources
+C:\Users\Administrator\Desktop\new aeon\AeonNew\obj\x86\Debug\AeonNew.select_month.resources
+C:\Users\Administrator\Desktop\new aeon\AeonNew\obj\x86\Debug\AeonNew.UpdateBasic.resources
+C:\Users\Administrator\Desktop\new aeon\AeonNew\obj\x86\Debug\AeonNew.UpdateClientDetails.resources
+C:\Users\Administrator\Desktop\new aeon\AeonNew\obj\x86\Debug\AeonNew.updatecontact.resources
+C:\Users\Administrator\Desktop\new aeon\AeonNew\obj\x86\Debug\AeonNew.UpdateDSR.resources
+C:\Users\Administrator\Desktop\new aeon\AeonNew\obj\x86\Debug\AeonNew.updateEqpDialog.resources
+C:\Users\Administrator\Desktop\new aeon\AeonNew\obj\x86\Debug\AeonNew.update_complain_by_id.resources
+C:\Users\Administrator\Desktop\new aeon\AeonNew\obj\x86\Debug\AeonNew.csproj.GenerateResource.Cache
+C:\Users\prakash.kumar\Desktop\Aeon\new aeon\AeonNew\bin\Debug\AeonNew.exe.config
+C:\Users\prakash.kumar\Desktop\Aeon\new aeon\AeonNew\obj\x86\Debug\Interop.AcroPDFLib.dll
+C:\Users\prakash.kumar\Desktop\Aeon\new aeon\AeonNew\obj\x86\Debug\AeonNew.csproj.ResolveComReference.cache
+C:\Users\prakash.kumar\Desktop\Aeon\new aeon\AeonNew\obj\x86\Debug\AeonNew.exe
+C:\Users\prakash.kumar\Desktop\Aeon\new aeon\AeonNew\obj\x86\Debug\AeonNew.pdb
+C:\Users\prakash.kumar\Desktop\Aeon\new aeon\AeonNew\bin\Debug\AeonNew.exe
+C:\Users\prakash.kumar\Desktop\Aeon\new aeon\AeonNew\bin\Debug\AeonNew.pdb
+C:\Users\prakash.kumar\Desktop\Aeon\new aeon\AeonNew\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\prakash.kumar\Desktop\Aeon\new aeon\AeonNew\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\prakash.kumar\Desktop\Aeon\new aeon\AeonNew\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\prakash.kumar\Desktop\Aeon\new aeon\AeonNew\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\prakash.kumar\Desktop\Aeon\new aeon\AeonNew\bin\Debug\FlashControlV71.dll
+C:\Users\prakash.kumar\Desktop\Aeon\new aeon\AeonNew\bin\Debug\Microsoft.CSharp.dll
+C:\Users\prakash.kumar\Desktop\Aeon\new aeon\AeonNew\bin\Debug\System.Xml.dll
+C:\Users\prakash.kumar\Desktop\Aeon\new aeon\AeonNew\bin\Debug\WindowsBase.dll
+C:\Users\prakash.kumar\Desktop\Aeon\new aeon\AeonNew\obj\x86\Debug\AeonNew.csprojResolveAssemblyReference.cache
+C:\Users\prakash.kumar\Desktop\Aeon\new aeon\AeonNew\obj\x86\Debug\AeonNew.AddNewMachine.resources
+C:\Users\prakash.kumar\Desktop\Aeon\new aeon\AeonNew\obj\x86\Debug\AeonNew.AddSerial.resources
+C:\Users\prakash.kumar\Desktop\Aeon\new aeon\AeonNew\obj\x86\Debug\AeonNew.ADD_Product.resources
+C:\Users\prakash.kumar\Desktop\Aeon\new aeon\AeonNew\obj\x86\Debug\AeonNew.AdjustmentPayment.resources
+C:\Users\prakash.kumar\Desktop\Aeon\new aeon\AeonNew\obj\x86\Debug\AeonNew.AeonEquipmentDetails.resources
+C:\Users\prakash.kumar\Desktop\Aeon\new aeon\AeonNew\obj\x86\Debug\AeonNew.AlterInstallmentPatern.resources
+C:\Users\prakash.kumar\Desktop\Aeon\new aeon\AeonNew\obj\x86\Debug\AeonNew.CellClick.resources
+C:\Users\prakash.kumar\Desktop\Aeon\new aeon\AeonNew\obj\x86\Debug\AeonNew.Citywise_Amc_Lost_Report.resources
+C:\Users\prakash.kumar\Desktop\Aeon\new aeon\AeonNew\obj\x86\Debug\AeonNew.Complaintdetails_Report.resources
+C:\Users\prakash.kumar\Desktop\Aeon\new aeon\AeonNew\obj\x86\Debug\AeonNew.ComplaintPaymentDetails.resources
+C:\Users\prakash.kumar\Desktop\Aeon\new aeon\AeonNew\obj\x86\Debug\AeonNew.ComplaintReportDateWiseSolve.resources
+C:\Users\prakash.kumar\Desktop\Aeon\new aeon\AeonNew\obj\x86\Debug\AeonNew.ComplaintResolve.resources
+C:\Users\prakash.kumar\Desktop\Aeon\new aeon\AeonNew\obj\x86\Debug\AeonNew.DateWiseNotSolve.resources
+C:\Users\prakash.kumar\Desktop\Aeon\new aeon\AeonNew\obj\x86\Debug\AeonNew.DSRRepotAll.resources
+C:\Users\prakash.kumar\Desktop\Aeon\new aeon\AeonNew\obj\x86\Debug\AeonNew.DSR_DayVisit.resources
+C:\Users\prakash.kumar\Desktop\Aeon\new aeon\AeonNew\obj\x86\Debug\AeonNew.DSR_MakeEntry.resources
+C:\Users\prakash.kumar\Desktop\Aeon\new aeon\AeonNew\obj\x86\Debug\AeonNew.Emaitemplate.resources
+C:\Users\prakash.kumar\Desktop\Aeon\new aeon\AeonNew\obj\x86\Debug\AeonNew.EngineerWiseNotResolve.resources
+C:\Users\prakash.kumar\Desktop\Aeon\new aeon\AeonNew\obj\x86\Debug\AeonNew.EngineerWiseNotResolveReport.resources
+C:\Users\prakash.kumar\Desktop\Aeon\new aeon\AeonNew\obj\x86\Debug\AeonNew.EngineerWiseSolveReport.resources
+C:\Users\prakash.kumar\Desktop\Aeon\new aeon\AeonNew\obj\x86\Debug\AeonNew.EquipmentDetails.resources
+C:\Users\prakash.kumar\Desktop\Aeon\new aeon\AeonNew\obj\x86\Debug\AeonNew.Equpiment_Archive.resources
+C:\Users\prakash.kumar\Desktop\Aeon\new aeon\AeonNew\obj\x86\Debug\AeonNew.Form2.resources
+C:\Users\prakash.kumar\Desktop\Aeon\new aeon\AeonNew\obj\x86\Debug\AeonNew.Form3.resources
+C:\Users\prakash.kumar\Desktop\Aeon\new aeon\AeonNew\obj\x86\Debug\AeonNew.GenerateDateReport.resources
+C:\Users\prakash.kumar\Desktop\Aeon\new aeon\AeonNew\obj\x86\Debug\AeonNew.GenerateEngineerReport.resources
+C:\Users\prakash.kumar\Desktop\Aeon\new aeon\AeonNew\obj\x86\Debug\AeonNew.GeneratePurchaseOrderReport.resources
+C:\Users\prakash.kumar\Desktop\Aeon\new aeon\AeonNew\obj\x86\Debug\AeonNew.Installement.resources
+C:\Users\prakash.kumar\Desktop\Aeon\new aeon\AeonNew\obj\x86\Debug\AeonNew.Installment_Entry.resources
+C:\Users\prakash.kumar\Desktop\Aeon\new aeon\AeonNew\obj\x86\Debug\AeonNew.Inward.resources
+C:\Users\prakash.kumar\Desktop\Aeon\new aeon\AeonNew\obj\x86\Debug\AeonNew.InwardReport.resources
+C:\Users\prakash.kumar\Desktop\Aeon\new aeon\AeonNew\obj\x86\Debug\AeonNew.LogComplaint.resources
+C:\Users\prakash.kumar\Desktop\Aeon\new aeon\AeonNew\obj\x86\Debug\AeonNew.Lost_Amc.resources
+C:\Users\prakash.kumar\Desktop\Aeon\new aeon\AeonNew\obj\x86\Debug\AeonNew.MainWindow.resources
+C:\Users\prakash.kumar\Desktop\Aeon\new aeon\AeonNew\obj\x86\Debug\AeonNew.NewClientEntry.resources
+C:\Users\prakash.kumar\Desktop\Aeon\new aeon\AeonNew\obj\x86\Debug\AeonNew.NewComplainLog.resources
+C:\Users\prakash.kumar\Desktop\Aeon\new aeon\AeonNew\obj\x86\Debug\AeonNew.NewContactDetails.resources
+C:\Users\prakash.kumar\Desktop\Aeon\new aeon\AeonNew\obj\x86\Debug\AeonNew.NotResolve.resources
+C:\Users\prakash.kumar\Desktop\Aeon\new aeon\AeonNew\obj\x86\Debug\AeonNew.NotResolveReport.resources
+C:\Users\prakash.kumar\Desktop\Aeon\new aeon\AeonNew\obj\x86\Debug\AeonNew.OutwardReport.resources
+C:\Users\prakash.kumar\Desktop\Aeon\new aeon\AeonNew\obj\x86\Debug\AeonNew.OutWard_Product.resources
+C:\Users\prakash.kumar\Desktop\Aeon\new aeon\AeonNew\obj\x86\Debug\AeonNew.PaidComplain.resources
+C:\Users\prakash.kumar\Desktop\Aeon\new aeon\AeonNew\obj\x86\Debug\AeonNew.PaymentDescription.resources
+C:\Users\prakash.kumar\Desktop\Aeon\new aeon\AeonNew\obj\x86\Debug\AeonNew.PaymentDetails.resources
+C:\Users\prakash.kumar\Desktop\Aeon\new aeon\AeonNew\obj\x86\Debug\AeonNew.PaymentEntryBill.resources
+C:\Users\prakash.kumar\Desktop\Aeon\new aeon\AeonNew\obj\x86\Debug\AeonNew.pin_wise_amc_lost_report.resources
+C:\Users\prakash.kumar\Desktop\Aeon\new aeon\AeonNew\obj\x86\Debug\AeonNew.ProductName_Wise_AMC_LostReport.resources
+C:\Users\prakash.kumar\Desktop\Aeon\new aeon\AeonNew\obj\x86\Debug\AeonNew.Proposal.resources
+C:\Users\prakash.kumar\Desktop\Aeon\new aeon\AeonNew\obj\x86\Debug\AeonNew.ProposalGridViewer.resources
+C:\Users\prakash.kumar\Desktop\Aeon\new aeon\AeonNew\obj\x86\Debug\AeonNew.ProposalReportViewer.resources
+C:\Users\prakash.kumar\Desktop\Aeon\new aeon\AeonNew\obj\x86\Debug\AeonNew.PurchaseOrder.resources
+C:\Users\prakash.kumar\Desktop\Aeon\new aeon\AeonNew\obj\x86\Debug\AeonNew.Purchase_order_details.resources
+C:\Users\prakash.kumar\Desktop\Aeon\new aeon\AeonNew\obj\x86\Debug\AeonNew.Quantity.resources
+C:\Users\prakash.kumar\Desktop\Aeon\new aeon\AeonNew\obj\x86\Debug\AeonNew.Bill_Details.resources
+C:\Users\prakash.kumar\Desktop\Aeon\new aeon\AeonNew\obj\x86\Debug\AeonNew.ChangeEngineer.resources
+C:\Users\prakash.kumar\Desktop\Aeon\new aeon\AeonNew\obj\x86\Debug\AeonNew.ChangePasswordForm1.resources
+C:\Users\prakash.kumar\Desktop\Aeon\new aeon\AeonNew\obj\x86\Debug\AeonNew.ChangePasswordForm2.resources
+C:\Users\prakash.kumar\Desktop\Aeon\new aeon\AeonNew\obj\x86\Debug\AeonNew.ChangePasswordForm3.resources
+C:\Users\prakash.kumar\Desktop\Aeon\new aeon\AeonNew\obj\x86\Debug\AeonNew.ClientDetails.resources
+C:\Users\prakash.kumar\Desktop\Aeon\new aeon\AeonNew\obj\x86\Debug\AeonNew.ClientEntry.resources
+C:\Users\prakash.kumar\Desktop\Aeon\new aeon\AeonNew\obj\x86\Debug\AeonNew.CloseComplaint.resources
+C:\Users\prakash.kumar\Desktop\Aeon\new aeon\AeonNew\obj\x86\Debug\AeonNew.AMC_Expiry_Report.resources
+C:\Users\prakash.kumar\Desktop\Aeon\new aeon\AeonNew\obj\x86\Debug\AeonNew.CreateUser.resources
+C:\Users\prakash.kumar\Desktop\Aeon\new aeon\AeonNew\obj\x86\Debug\AeonNew.DSR_Brief.resources
+C:\Users\prakash.kumar\Desktop\Aeon\new aeon\AeonNew\obj\x86\Debug\AeonNew.Form1.resources
+C:\Users\prakash.kumar\Desktop\Aeon\new aeon\AeonNew\obj\x86\Debug\AeonNew.CarryForward_Report.resources
+C:\Users\prakash.kumar\Desktop\Aeon\new aeon\AeonNew\obj\x86\Debug\AeonNew.old_LogComplaint.resources
+C:\Users\prakash.kumar\Desktop\Aeon\new aeon\AeonNew\obj\x86\Debug\AeonNew.LoginForm.resources
+C:\Users\prakash.kumar\Desktop\Aeon\new aeon\AeonNew\obj\x86\Debug\AeonNew.Month_Report.resources
+C:\Users\prakash.kumar\Desktop\Aeon\new aeon\AeonNew\obj\x86\Debug\AeonNew.PaymentForm.resources
+C:\Users\prakash.kumar\Desktop\Aeon\new aeon\AeonNew\obj\x86\Debug\AeonNew.Properties.Resources.resources
+C:\Users\prakash.kumar\Desktop\Aeon\new aeon\AeonNew\obj\x86\Debug\AeonNew.Report_DSR.resources
+C:\Users\prakash.kumar\Desktop\Aeon\new aeon\AeonNew\obj\x86\Debug\AeonNew.Resolve.resources
+C:\Users\prakash.kumar\Desktop\Aeon\new aeon\AeonNew\obj\x86\Debug\AeonNew.ResolveReport.resources
+C:\Users\prakash.kumar\Desktop\Aeon\new aeon\AeonNew\obj\x86\Debug\AeonNew.sales_proposal.resources
+C:\Users\prakash.kumar\Desktop\Aeon\new aeon\AeonNew\obj\x86\Debug\AeonNew.select_month.resources
+C:\Users\prakash.kumar\Desktop\Aeon\new aeon\AeonNew\obj\x86\Debug\AeonNew.UpdateBasic.resources
+C:\Users\prakash.kumar\Desktop\Aeon\new aeon\AeonNew\obj\x86\Debug\AeonNew.UpdateClientDetails.resources
+C:\Users\prakash.kumar\Desktop\Aeon\new aeon\AeonNew\obj\x86\Debug\AeonNew.updatecontact.resources
+C:\Users\prakash.kumar\Desktop\Aeon\new aeon\AeonNew\obj\x86\Debug\AeonNew.UpdateDSR.resources
+C:\Users\prakash.kumar\Desktop\Aeon\new aeon\AeonNew\obj\x86\Debug\AeonNew.updateEqpDialog.resources
+C:\Users\prakash.kumar\Desktop\Aeon\new aeon\AeonNew\obj\x86\Debug\AeonNew.update_complain_by_id.resources
+C:\Users\prakash.kumar\Desktop\Aeon\new aeon\AeonNew\obj\x86\Debug\AeonNew.csproj.GenerateResource.Cache
+C:\Users\prakash.kumar\Desktop\Aeon\new aeon\AeonNew\obj\x86\Debug\AeonNew.sales_perposal_report.resources
+C:\Users\prakash.kumar\Desktop\Aeon\new aeon\AeonNew\obj\x86\Debug\AeonNew.Sales_perposal_search.resources
+C:\Users\Prakash Kumar\Desktop\Projects\Aeon\Aeon\AeonNew\bin\Debug\AeonNew.exe.config
+C:\Users\Prakash Kumar\Desktop\Projects\Aeon\Aeon\AeonNew\bin\Debug\AeonNew.exe
+C:\Users\Prakash Kumar\Desktop\Projects\Aeon\Aeon\AeonNew\bin\Debug\AeonNew.pdb
+C:\Users\Prakash Kumar\Desktop\Projects\Aeon\Aeon\AeonNew\bin\Debug\Microsoft.CSharp.dll
+C:\Users\Prakash Kumar\Desktop\Projects\Aeon\Aeon\AeonNew\bin\Debug\System.Xml.dll
+C:\Users\Prakash Kumar\Desktop\Projects\Aeon\Aeon\AeonNew\bin\Debug\WindowsBase.dll
+C:\Users\Prakash Kumar\Desktop\Projects\Aeon\Aeon\AeonNew\obj\x86\Debug\AeonNew.csprojResolveAssemblyReference.cache
+C:\Users\Prakash Kumar\Desktop\Projects\Aeon\Aeon\AeonNew\obj\x86\Debug\AeonNew.csproj.ResolveComReference.cache
+C:\Users\Prakash Kumar\Desktop\Projects\Aeon\Aeon\AeonNew\obj\x86\Debug\AeonNew.AddNewMachine.resources
+C:\Users\Prakash Kumar\Desktop\Projects\Aeon\Aeon\AeonNew\obj\x86\Debug\AeonNew.AddSerial.resources
+C:\Users\Prakash Kumar\Desktop\Projects\Aeon\Aeon\AeonNew\obj\x86\Debug\AeonNew.ADD_Product.resources
+C:\Users\Prakash Kumar\Desktop\Projects\Aeon\Aeon\AeonNew\obj\x86\Debug\AeonNew.AdjustmentPayment.resources
+C:\Users\Prakash Kumar\Desktop\Projects\Aeon\Aeon\AeonNew\obj\x86\Debug\AeonNew.AeonEquipmentDetails.resources
+C:\Users\Prakash Kumar\Desktop\Projects\Aeon\Aeon\AeonNew\obj\x86\Debug\AeonNew.AlterInstallmentPatern.resources
+C:\Users\Prakash Kumar\Desktop\Projects\Aeon\Aeon\AeonNew\obj\x86\Debug\AeonNew.CellClick.resources
+C:\Users\Prakash Kumar\Desktop\Projects\Aeon\Aeon\AeonNew\obj\x86\Debug\AeonNew.Citywise_Amc_Lost_Report.resources
+C:\Users\Prakash Kumar\Desktop\Projects\Aeon\Aeon\AeonNew\obj\x86\Debug\AeonNew.Complaintdetails_Report.resources
+C:\Users\Prakash Kumar\Desktop\Projects\Aeon\Aeon\AeonNew\obj\x86\Debug\AeonNew.ComplaintPaymentDetails.resources
+C:\Users\Prakash Kumar\Desktop\Projects\Aeon\Aeon\AeonNew\obj\x86\Debug\AeonNew.ComplaintReportDateWiseSolve.resources
+C:\Users\Prakash Kumar\Desktop\Projects\Aeon\Aeon\AeonNew\obj\x86\Debug\AeonNew.ComplaintResolve.resources
+C:\Users\Prakash Kumar\Desktop\Projects\Aeon\Aeon\AeonNew\obj\x86\Debug\AeonNew.DateWiseNotSolve.resources
+C:\Users\Prakash Kumar\Desktop\Projects\Aeon\Aeon\AeonNew\obj\x86\Debug\AeonNew.DSRRepotAll.resources
+C:\Users\Prakash Kumar\Desktop\Projects\Aeon\Aeon\AeonNew\obj\x86\Debug\AeonNew.DSR_DayVisit.resources
+C:\Users\Prakash Kumar\Desktop\Projects\Aeon\Aeon\AeonNew\obj\x86\Debug\AeonNew.DSR_MakeEntry.resources
+C:\Users\Prakash Kumar\Desktop\Projects\Aeon\Aeon\AeonNew\obj\x86\Debug\AeonNew.Emaitemplate.resources
+C:\Users\Prakash Kumar\Desktop\Projects\Aeon\Aeon\AeonNew\obj\x86\Debug\AeonNew.EngineerWiseNotResolve.resources
+C:\Users\Prakash Kumar\Desktop\Projects\Aeon\Aeon\AeonNew\obj\x86\Debug\AeonNew.EngineerWiseNotResolveReport.resources
+C:\Users\Prakash Kumar\Desktop\Projects\Aeon\Aeon\AeonNew\obj\x86\Debug\AeonNew.EngineerWiseSolveReport.resources
+C:\Users\Prakash Kumar\Desktop\Projects\Aeon\Aeon\AeonNew\obj\x86\Debug\AeonNew.EquipmentDetails.resources
+C:\Users\Prakash Kumar\Desktop\Projects\Aeon\Aeon\AeonNew\obj\x86\Debug\AeonNew.Equpiment_Archive.resources
+C:\Users\Prakash Kumar\Desktop\Projects\Aeon\Aeon\AeonNew\obj\x86\Debug\AeonNew.Form2.resources
+C:\Users\Prakash Kumar\Desktop\Projects\Aeon\Aeon\AeonNew\obj\x86\Debug\AeonNew.Form3.resources
+C:\Users\Prakash Kumar\Desktop\Projects\Aeon\Aeon\AeonNew\obj\x86\Debug\AeonNew.GenerateDateReport.resources
+C:\Users\Prakash Kumar\Desktop\Projects\Aeon\Aeon\AeonNew\obj\x86\Debug\AeonNew.GenerateEngineerReport.resources
+C:\Users\Prakash Kumar\Desktop\Projects\Aeon\Aeon\AeonNew\obj\x86\Debug\AeonNew.GeneratePurchaseOrderReport.resources
+C:\Users\Prakash Kumar\Desktop\Projects\Aeon\Aeon\AeonNew\obj\x86\Debug\AeonNew.Installement.resources
+C:\Users\Prakash Kumar\Desktop\Projects\Aeon\Aeon\AeonNew\obj\x86\Debug\AeonNew.Installment_Entry.resources
+C:\Users\Prakash Kumar\Desktop\Projects\Aeon\Aeon\AeonNew\obj\x86\Debug\AeonNew.Inward.resources
+C:\Users\Prakash Kumar\Desktop\Projects\Aeon\Aeon\AeonNew\obj\x86\Debug\AeonNew.InwardReport.resources
+C:\Users\Prakash Kumar\Desktop\Projects\Aeon\Aeon\AeonNew\obj\x86\Debug\AeonNew.LogComplaint.resources
+C:\Users\Prakash Kumar\Desktop\Projects\Aeon\Aeon\AeonNew\obj\x86\Debug\AeonNew.Lost_Amc.resources
+C:\Users\Prakash Kumar\Desktop\Projects\Aeon\Aeon\AeonNew\obj\x86\Debug\AeonNew.MainWindow.resources
+C:\Users\Prakash Kumar\Desktop\Projects\Aeon\Aeon\AeonNew\obj\x86\Debug\AeonNew.NewClientEntry.resources
+C:\Users\Prakash Kumar\Desktop\Projects\Aeon\Aeon\AeonNew\obj\x86\Debug\AeonNew.NewComplainLog.resources
+C:\Users\Prakash Kumar\Desktop\Projects\Aeon\Aeon\AeonNew\obj\x86\Debug\AeonNew.NewContactDetails.resources
+C:\Users\Prakash Kumar\Desktop\Projects\Aeon\Aeon\AeonNew\obj\x86\Debug\AeonNew.NotResolve.resources
+C:\Users\Prakash Kumar\Desktop\Projects\Aeon\Aeon\AeonNew\obj\x86\Debug\AeonNew.NotResolveReport.resources
+C:\Users\Prakash Kumar\Desktop\Projects\Aeon\Aeon\AeonNew\obj\x86\Debug\AeonNew.OutwardReport.resources
+C:\Users\Prakash Kumar\Desktop\Projects\Aeon\Aeon\AeonNew\obj\x86\Debug\AeonNew.OutWard_Product.resources
+C:\Users\Prakash Kumar\Desktop\Projects\Aeon\Aeon\AeonNew\obj\x86\Debug\AeonNew.PaidComplain.resources
+C:\Users\Prakash Kumar\Desktop\Projects\Aeon\Aeon\AeonNew\obj\x86\Debug\AeonNew.PaymentDescription.resources
+C:\Users\Prakash Kumar\Desktop\Projects\Aeon\Aeon\AeonNew\obj\x86\Debug\AeonNew.PaymentDetails.resources
+C:\Users\Prakash Kumar\Desktop\Projects\Aeon\Aeon\AeonNew\obj\x86\Debug\AeonNew.PaymentEntryBill.resources
+C:\Users\Prakash Kumar\Desktop\Projects\Aeon\Aeon\AeonNew\obj\x86\Debug\AeonNew.pin_wise_amc_lost_report.resources
+C:\Users\Prakash Kumar\Desktop\Projects\Aeon\Aeon\AeonNew\obj\x86\Debug\AeonNew.ProductName_Wise_AMC_LostReport.resources
+C:\Users\Prakash Kumar\Desktop\Projects\Aeon\Aeon\AeonNew\obj\x86\Debug\AeonNew.Proposal.resources
+C:\Users\Prakash Kumar\Desktop\Projects\Aeon\Aeon\AeonNew\obj\x86\Debug\AeonNew.ProposalGridViewer.resources
+C:\Users\Prakash Kumar\Desktop\Projects\Aeon\Aeon\AeonNew\obj\x86\Debug\AeonNew.ProposalReportViewer.resources
+C:\Users\Prakash Kumar\Desktop\Projects\Aeon\Aeon\AeonNew\obj\x86\Debug\AeonNew.PurchaseOrder.resources
+C:\Users\Prakash Kumar\Desktop\Projects\Aeon\Aeon\AeonNew\obj\x86\Debug\AeonNew.Purchase_order_details.resources
+C:\Users\Prakash Kumar\Desktop\Projects\Aeon\Aeon\AeonNew\obj\x86\Debug\AeonNew.Quantity.resources
+C:\Users\Prakash Kumar\Desktop\Projects\Aeon\Aeon\AeonNew\obj\x86\Debug\AeonNew.Bill_Details.resources
+C:\Users\Prakash Kumar\Desktop\Projects\Aeon\Aeon\AeonNew\obj\x86\Debug\AeonNew.ChangeEngineer.resources
+C:\Users\Prakash Kumar\Desktop\Projects\Aeon\Aeon\AeonNew\obj\x86\Debug\AeonNew.ChangePasswordForm1.resources
+C:\Users\Prakash Kumar\Desktop\Projects\Aeon\Aeon\AeonNew\obj\x86\Debug\AeonNew.ChangePasswordForm2.resources
+C:\Users\Prakash Kumar\Desktop\Projects\Aeon\Aeon\AeonNew\obj\x86\Debug\AeonNew.ChangePasswordForm3.resources
+C:\Users\Prakash Kumar\Desktop\Projects\Aeon\Aeon\AeonNew\obj\x86\Debug\AeonNew.ClientDetails.resources
+C:\Users\Prakash Kumar\Desktop\Projects\Aeon\Aeon\AeonNew\obj\x86\Debug\AeonNew.ClientEntry.resources
+C:\Users\Prakash Kumar\Desktop\Projects\Aeon\Aeon\AeonNew\obj\x86\Debug\AeonNew.CloseComplaint.resources
+C:\Users\Prakash Kumar\Desktop\Projects\Aeon\Aeon\AeonNew\obj\x86\Debug\AeonNew.AMC_Expiry_Report.resources
+C:\Users\Prakash Kumar\Desktop\Projects\Aeon\Aeon\AeonNew\obj\x86\Debug\AeonNew.CreateUser.resources
+C:\Users\Prakash Kumar\Desktop\Projects\Aeon\Aeon\AeonNew\obj\x86\Debug\AeonNew.DSR_Brief.resources
+C:\Users\Prakash Kumar\Desktop\Projects\Aeon\Aeon\AeonNew\obj\x86\Debug\AeonNew.Form1.resources
+C:\Users\Prakash Kumar\Desktop\Projects\Aeon\Aeon\AeonNew\obj\x86\Debug\AeonNew.CarryForward_Report.resources
+C:\Users\Prakash Kumar\Desktop\Projects\Aeon\Aeon\AeonNew\obj\x86\Debug\AeonNew.old_LogComplaint.resources
+C:\Users\Prakash Kumar\Desktop\Projects\Aeon\Aeon\AeonNew\obj\x86\Debug\AeonNew.LoginForm.resources
+C:\Users\Prakash Kumar\Desktop\Projects\Aeon\Aeon\AeonNew\obj\x86\Debug\AeonNew.Month_Report.resources
+C:\Users\Prakash Kumar\Desktop\Projects\Aeon\Aeon\AeonNew\obj\x86\Debug\AeonNew.PaymentForm.resources
+C:\Users\Prakash Kumar\Desktop\Projects\Aeon\Aeon\AeonNew\obj\x86\Debug\AeonNew.Properties.Resources.resources
+C:\Users\Prakash Kumar\Desktop\Projects\Aeon\Aeon\AeonNew\obj\x86\Debug\AeonNew.Report_DSR.resources
+C:\Users\Prakash Kumar\Desktop\Projects\Aeon\Aeon\AeonNew\obj\x86\Debug\AeonNew.Resolve.resources
+C:\Users\Prakash Kumar\Desktop\Projects\Aeon\Aeon\AeonNew\obj\x86\Debug\AeonNew.ResolveReport.resources
+C:\Users\Prakash Kumar\Desktop\Projects\Aeon\Aeon\AeonNew\obj\x86\Debug\AeonNew.sales_perposal_report.resources
+C:\Users\Prakash Kumar\Desktop\Projects\Aeon\Aeon\AeonNew\obj\x86\Debug\AeonNew.Sales_perposal_search.resources
+C:\Users\Prakash Kumar\Desktop\Projects\Aeon\Aeon\AeonNew\obj\x86\Debug\AeonNew.sales_proposal.resources
+C:\Users\Prakash Kumar\Desktop\Projects\Aeon\Aeon\AeonNew\obj\x86\Debug\AeonNew.select_month.resources
+C:\Users\Prakash Kumar\Desktop\Projects\Aeon\Aeon\AeonNew\obj\x86\Debug\AeonNew.UpdateBasic.resources
+C:\Users\Prakash Kumar\Desktop\Projects\Aeon\Aeon\AeonNew\obj\x86\Debug\AeonNew.UpdateClientDetails.resources
+C:\Users\Prakash Kumar\Desktop\Projects\Aeon\Aeon\AeonNew\obj\x86\Debug\AeonNew.updatecontact.resources
+C:\Users\Prakash Kumar\Desktop\Projects\Aeon\Aeon\AeonNew\obj\x86\Debug\AeonNew.UpdateDSR.resources
+C:\Users\Prakash Kumar\Desktop\Projects\Aeon\Aeon\AeonNew\obj\x86\Debug\AeonNew.updateEqpDialog.resources
+C:\Users\Prakash Kumar\Desktop\Projects\Aeon\Aeon\AeonNew\obj\x86\Debug\AeonNew.update_complain_by_id.resources
+C:\Users\Prakash Kumar\Desktop\Projects\Aeon\Aeon\AeonNew\obj\x86\Debug\AeonNew.csproj.GenerateResource.Cache
+C:\Users\Prakash Kumar\Desktop\Projects\Aeon\Aeon\AeonNew\obj\x86\Debug\AeonNew.exe
+C:\Users\Prakash Kumar\Desktop\Projects\Aeon\Aeon\AeonNew\obj\x86\Debug\AeonNew.pdb

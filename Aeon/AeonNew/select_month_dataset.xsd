@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="select_month_dataset" targetNamespace="http://tempuri.org/select_month_dataset.xsd" xmlns:mstns="http://tempuri.org/select_month_dataset.xsd" xmlns="http://tempuri.org/select_month_dataset.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="select_month_dataset" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="select_month_dataset" msprop:Generator_UserDSName="select_month_dataset">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="DSR" msprop:Generator_TableClassName="DSRDataTable" msprop:Generator_TableVarName="tableDSR" msprop:Generator_TablePropName="DSR" msprop:Generator_RowDeletingName="DSRRowDeleting" msprop:Generator_RowChangingName="DSRRowChanging" msprop:Generator_RowEvHandlerName="DSRRowChangeEventHandler" msprop:Generator_RowDeletedName="DSRRowDeleted" msprop:Generator_UserTableName="DSR" msprop:Generator_RowChangedName="DSRRowChanged" msprop:Generator_RowEvArgName="DSRRowChangeEvent" msprop:Generator_RowClassName="DSRRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="PARTY_NAME" msprop:Generator_ColumnVarNameInTable="columnPARTY_NAME" msprop:Generator_ColumnPropNameInRow="PARTY_NAME" msprop:Generator_ColumnPropNameInTable="PARTY_NAMEColumn" msprop:Generator_UserColumnName="PARTY_NAME" type="xs:string" minOccurs="0" />
+              <xs:element name="CONTACTED_PERSON" msprop:Generator_ColumnVarNameInTable="columnCONTACTED_PERSON" msprop:Generator_ColumnPropNameInRow="CONTACTED_PERSON" msprop:Generator_ColumnPropNameInTable="CONTACTED_PERSONColumn" msprop:Generator_UserColumnName="CONTACTED_PERSON" type="xs:string" minOccurs="0" />
+              <xs:element name="ORDER_BOOKED_AME" msprop:Generator_ColumnVarNameInTable="columnORDER_BOOKED_AME" msprop:Generator_ColumnPropNameInRow="ORDER_BOOKED_AME" msprop:Generator_ColumnPropNameInTable="ORDER_BOOKED_AMEColumn" msprop:Generator_UserColumnName="ORDER_BOOKED_AME" type="xs:string" minOccurs="0" />
+              <xs:element name="PAYMENT_COLLECTED_AME" msprop:Generator_ColumnVarNameInTable="columnPAYMENT_COLLECTED_AME" msprop:Generator_ColumnPropNameInRow="PAYMENT_COLLECTED_AME" msprop:Generator_ColumnPropNameInTable="PAYMENT_COLLECTED_AMEColumn" msprop:Generator_UserColumnName="PAYMENT_COLLECTED_AME" type="xs:string" minOccurs="0" />
+              <xs:element name="ORDER_BOOKED_AE" msprop:Generator_ColumnVarNameInTable="columnORDER_BOOKED_AE" msprop:Generator_ColumnPropNameInRow="ORDER_BOOKED_AE" msprop:Generator_ColumnPropNameInTable="ORDER_BOOKED_AEColumn" msprop:Generator_UserColumnName="ORDER_BOOKED_AE" type="xs:string" minOccurs="0" />
+              <xs:element name="PAYMENT_COLLECTED_AE" msprop:Generator_ColumnVarNameInTable="columnPAYMENT_COLLECTED_AE" msprop:Generator_ColumnPropNameInRow="PAYMENT_COLLECTED_AE" msprop:Generator_ColumnPropNameInTable="PAYMENT_COLLECTED_AEColumn" msprop:Generator_UserColumnName="PAYMENT_COLLECTED_AE" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

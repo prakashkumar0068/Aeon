@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="clientdetailsdataset" targetNamespace="http://tempuri.org/clientdetailsdataset.xsd" xmlns:mstns="http://tempuri.org/clientdetailsdataset.xsd" xmlns="http://tempuri.org/clientdetailsdataset.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="ConnectionString1" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="ConnectionString1 (Settings)" ParameterPrefix=":" PropertyReference="ApplicationSettings.AeonNew.Properties.Settings.GlobalReference.Default.ConnectionString1" Provider="Oracle.ManagedDataAccess.Client" />
+        </Connections>
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="clientdetailsdataset" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="clientdetailsdataset" msprop:Generator_UserDSName="clientdetailsdataset">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="Clientdetails" msprop:Generator_TableClassName="ClientdetailsDataTable" msprop:Generator_TableVarName="tableClientdetails" msprop:Generator_TablePropName="Clientdetails" msprop:Generator_RowDeletingName="ClientdetailsRowDeleting" msprop:Generator_RowChangingName="ClientdetailsRowChanging" msprop:Generator_RowEvHandlerName="ClientdetailsRowChangeEventHandler" msprop:Generator_RowDeletedName="ClientdetailsRowDeleted" msprop:Generator_UserTableName="Clientdetails" msprop:Generator_RowChangedName="ClientdetailsRowChanged" msprop:Generator_RowEvArgName="ClientdetailsRowChangeEvent" msprop:Generator_RowClassName="ClientdetailsRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="ORG_NAME" msprop:Generator_ColumnVarNameInTable="columnORG_NAME" msprop:Generator_ColumnPropNameInRow="ORG_NAME" msprop:Generator_ColumnPropNameInTable="ORG_NAMEColumn" msprop:Generator_UserColumnName="ORG_NAME" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

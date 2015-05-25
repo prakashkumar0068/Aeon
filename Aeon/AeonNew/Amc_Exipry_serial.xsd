@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="Amc_Exipry_serial" targetNamespace="http://tempuri.org/Amc_Exipry_serial.xsd" xmlns:mstns="http://tempuri.org/Amc_Exipry_serial.xsd" xmlns="http://tempuri.org/Amc_Exipry_serial.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="Amc_Exipry_serial" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="Amc_Exipry_serial" msprop:Generator_UserDSName="Amc_Exipry_serial">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="Amc_Details" msprop:Generator_TableClassName="Amc_DetailsDataTable" msprop:Generator_TableVarName="tableAmc_Details" msprop:Generator_TablePropName="Amc_Details" msprop:Generator_RowDeletingName="Amc_DetailsRowDeleting" msprop:Generator_RowChangingName="Amc_DetailsRowChanging" msprop:Generator_RowEvHandlerName="Amc_DetailsRowChangeEventHandler" msprop:Generator_RowDeletedName="Amc_DetailsRowDeleted" msprop:Generator_UserTableName="Amc_Details" msprop:Generator_RowChangedName="Amc_DetailsRowChanged" msprop:Generator_RowEvArgName="Amc_DetailsRowChangeEvent" msprop:Generator_RowClassName="Amc_DetailsRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="EQUIPMENT_NAME" msprop:Generator_ColumnVarNameInTable="columnEQUIPMENT_NAME" msprop:Generator_ColumnPropNameInRow="EQUIPMENT_NAME" msprop:Generator_ColumnPropNameInTable="EQUIPMENT_NAMEColumn" msprop:Generator_UserColumnName="EQUIPMENT_NAME" type="xs:string" minOccurs="0" />
+              <xs:element name="INSTALLATION_DATE" msprop:Generator_ColumnVarNameInTable="columnINSTALLATION_DATE" msprop:Generator_ColumnPropNameInRow="INSTALLATION_DATE" msprop:Generator_ColumnPropNameInTable="INSTALLATION_DATEColumn" msprop:Generator_UserColumnName="INSTALLATION_DATE" type="xs:string" minOccurs="0" />
+              <xs:element name="TYPE" msprop:Generator_ColumnVarNameInTable="columnTYPE" msprop:Generator_ColumnPropNameInRow="TYPE" msprop:Generator_ColumnPropNameInTable="TYPEColumn" msprop:Generator_UserColumnName="TYPE" type="xs:string" minOccurs="0" />
+              <xs:element name="CAPASITY" msprop:Generator_ColumnVarNameInTable="columnCAPASITY" msprop:Generator_ColumnPropNameInRow="CAPASITY" msprop:Generator_ColumnPropNameInTable="CAPASITYColumn" msprop:Generator_UserColumnName="CAPASITY" type="xs:string" minOccurs="0" />
+              <xs:element name="BRAND" msprop:Generator_ColumnVarNameInTable="columnBRAND" msprop:Generator_ColumnPropNameInRow="BRAND" msprop:Generator_ColumnPropNameInTable="BRANDColumn" msprop:Generator_UserColumnName="BRAND" type="xs:string" minOccurs="0" />
+              <xs:element name="AMC_UNIT_PRICE" msprop:Generator_ColumnVarNameInTable="columnAMC_UNIT_PRICE" msprop:Generator_ColumnPropNameInRow="AMC_UNIT_PRICE" msprop:Generator_ColumnPropNameInTable="AMC_UNIT_PRICEColumn" msprop:Generator_UserColumnName="AMC_UNIT_PRICE" type="xs:string" minOccurs="0" />
+              <xs:element name="AMC_START_DATE" msprop:Generator_ColumnVarNameInTable="columnAMC_START_DATE" msprop:Generator_ColumnPropNameInRow="AMC_START_DATE" msprop:Generator_ColumnPropNameInTable="AMC_START_DATEColumn" msprop:Generator_UserColumnName="AMC_START_DATE" type="xs:string" minOccurs="0" />
+              <xs:element name="AMC_END_DATE" msprop:Generator_ColumnVarNameInTable="columnAMC_END_DATE" msprop:Generator_ColumnPropNameInRow="AMC_END_DATE" msprop:Generator_ColumnPropNameInTable="AMC_END_DATEColumn" msprop:Generator_UserColumnName="AMC_END_DATE" type="xs:string" minOccurs="0" />
+              <xs:element name="UNDER" msprop:Generator_ColumnVarNameInTable="columnUNDER" msprop:Generator_ColumnPropNameInRow="UNDER" msprop:Generator_ColumnPropNameInTable="UNDERColumn" msprop:Generator_UserColumnName="UNDER" type="xs:string" minOccurs="0" />
+              <xs:element name="QUANTITY" msprop:Generator_ColumnVarNameInTable="columnQUANTITY" msprop:Generator_ColumnPropNameInRow="QUANTITY" msprop:Generator_ColumnPropNameInTable="QUANTITYColumn" msprop:Generator_UserColumnName="QUANTITY" type="xs:string" minOccurs="0" />
+              <xs:element name="SERIAL_NUMBERS" msprop:Generator_ColumnVarNameInTable="columnSERIAL_NUMBERS" msprop:Generator_ColumnPropNameInRow="SERIAL_NUMBERS" msprop:Generator_ColumnPropNameInTable="SERIAL_NUMBERSColumn" msprop:Generator_UserColumnName="SERIAL_NUMBERS" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

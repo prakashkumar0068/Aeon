@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="Report_Complaint_Details_dataset" targetNamespace="http://tempuri.org/Report_Complaint_Details_dataset.xsd" xmlns:mstns="http://tempuri.org/Report_Complaint_Details_dataset.xsd" xmlns="http://tempuri.org/Report_Complaint_Details_dataset.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="Report_Complaint_Details_dataset" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="Report_Complaint_Details_dataset" msprop:Generator_UserDSName="Report_Complaint_Details_dataset">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="DataTable7" msprop:Generator_TableClassName="DataTable7DataTable" msprop:Generator_TableVarName="tableDataTable7" msprop:Generator_TablePropName="DataTable7" msprop:Generator_RowDeletingName="DataTable7RowDeleting" msprop:Generator_UserTableName="DataTable7" msprop:Generator_RowChangingName="DataTable7RowChanging" msprop:Generator_RowEvHandlerName="DataTable7RowChangeEventHandler" msprop:Generator_RowDeletedName="DataTable7RowDeleted" msprop:Generator_RowEvArgName="DataTable7RowChangeEvent" msprop:Generator_RowChangedName="DataTable7RowChanged" msprop:Generator_RowClassName="DataTable7Row">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="ORGANISATION_ID" msprop:Generator_ColumnVarNameInTable="columnORGANISATION_ID" msprop:Generator_ColumnPropNameInRow="ORGANISATION_ID" msprop:Generator_ColumnPropNameInTable="ORGANISATION_IDColumn" msprop:Generator_UserColumnName="ORGANISATION_ID" type="xs:string" minOccurs="0" />
+              <xs:element name="ORG_NAME" msprop:Generator_ColumnVarNameInTable="columnORG_NAME" msprop:Generator_ColumnPropNameInRow="ORG_NAME" msprop:Generator_ColumnPropNameInTable="ORG_NAMEColumn" msprop:Generator_UserColumnName="ORG_NAME" type="xs:string" minOccurs="0" />
+              <xs:element name="DATE_OF_COMPLAINT" msprop:Generator_ColumnVarNameInTable="columnDATE_OF_COMPLAINT" msprop:Generator_ColumnPropNameInRow="DATE_OF_COMPLAINT" msprop:Generator_ColumnPropNameInTable="DATE_OF_COMPLAINTColumn" msprop:Generator_UserColumnName="DATE_OF_COMPLAINT" type="xs:string" minOccurs="0" />
+              <xs:element name="TIME_OF_COMPLAINT" msprop:Generator_ColumnVarNameInTable="columnTIME_OF_COMPLAINT" msprop:Generator_ColumnPropNameInRow="TIME_OF_COMPLAINT" msprop:Generator_ColumnPropNameInTable="TIME_OF_COMPLAINTColumn" msprop:Generator_UserColumnName="TIME_OF_COMPLAINT" type="xs:string" minOccurs="0" />
+              <xs:element name="PERSON_LOG_COMPLAINT" msprop:Generator_ColumnVarNameInTable="columnPERSON_LOG_COMPLAINT" msprop:Generator_ColumnPropNameInRow="PERSON_LOG_COMPLAINT" msprop:Generator_ColumnPropNameInTable="PERSON_LOG_COMPLAINTColumn" msprop:Generator_UserColumnName="PERSON_LOG_COMPLAINT" type="xs:string" minOccurs="0" />
+              <xs:element name="EQUIP_NAME" msprop:Generator_ColumnVarNameInTable="columnEQUIP_NAME" msprop:Generator_ColumnPropNameInRow="EQUIP_NAME" msprop:Generator_ColumnPropNameInTable="EQUIP_NAMEColumn" msprop:Generator_UserColumnName="EQUIP_NAME" type="xs:string" minOccurs="0" />
+              <xs:element name="MACHINE_UNDER" msprop:Generator_ColumnVarNameInTable="columnMACHINE_UNDER" msprop:Generator_ColumnPropNameInRow="MACHINE_UNDER" msprop:Generator_ColumnPropNameInTable="MACHINE_UNDERColumn" msprop:Generator_UserColumnName="MACHINE_UNDER" type="xs:string" minOccurs="0" />
+              <xs:element name="ENGINEER_SCHEDULED" msprop:Generator_ColumnVarNameInTable="columnENGINEER_SCHEDULED" msprop:Generator_ColumnPropNameInRow="ENGINEER_SCHEDULED" msprop:Generator_ColumnPropNameInTable="ENGINEER_SCHEDULEDColumn" msprop:Generator_UserColumnName="ENGINEER_SCHEDULED" type="xs:string" minOccurs="0" />
+              <xs:element name="STATUS" msprop:Generator_ColumnVarNameInTable="columnSTATUS" msprop:Generator_ColumnPropNameInRow="STATUS" msprop:Generator_ColumnPropNameInTable="STATUSColumn" msprop:Generator_UserColumnName="STATUS" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
